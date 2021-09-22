@@ -1,0 +1,21 @@
+[devshell]
+name = "Briar2nix"
+
+startup.main.text = "cd nix"
+
+# https://mvnrepository.com/artifact/org.webrtc/google-webrtc?repo=bt-google-webrtc
+[android]
+# toolsVersion = "30.0.3"
+platformToolsVersion = "31.0.3"
+buildToolsVersions = [ "30.0.2", "31.0.0" ]
+platformVersions = [ "29" ]
+abiVersions = [ "armeabi-v7a", "arm64-v8a" ]
+ndkVersions = [ "20.0.5594570" ]
+cmakeVersions = [ "3.6.4111459" ]
+emulatorVersion = "30.8.4"
+includeNDK = false
+includeEmulator = false
+includeSources = false
+includeSystemImages = false
+useGoogleAPIs = false
+useGoogleTVAddOns = false

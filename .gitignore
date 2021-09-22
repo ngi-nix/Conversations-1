@@ -45,3 +45,7 @@ proguard/
 
 import-summary.txt
 .navigation/
+
+# Nix
+nix/deps.json.old
+result
