@@ -12,7 +12,7 @@
         let
           # Currently webrtc is fetched form maven repo,
           # it should be compiled manually in the future.
-          # It may be impossible right now with Nix.
+          # It is really complicated right now with Nix (due to gsync).
           webrtc = callPackage ./nix/webrtc.nix { };
         in stdenv.mkDerivation {
         pname = "Conversations";

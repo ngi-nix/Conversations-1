@@ -3,7 +3,6 @@ name = "Briar2nix"
 
 startup.main.text = "cd nix"
 
-# https://mvnrepository.com/artifact/org.webrtc/google-webrtc?repo=bt-google-webrtc
 [android]
 # toolsVersion = "30.0.3"
 platformToolsVersion = "31.0.3"

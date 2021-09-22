@@ -385,6 +385,21 @@ you can get access to the the latest beta version by signing up using [this link
 
 #### How do I build Conversations
 
+##### Nix based
+
+It is possible to build Conversations with [Nix](https://nixos.org/explore.html). For this you will need to have [unstable Nix and flakes enabled](https://nixos.wiki/wiki/Flakes#Installing_flakes). You can also run Nix unstable in Nix-shell via `nix-shell -p nixUnstable`, although then you will need to add `--experimental-features "nix-command flakes"` to the `nix` arguments.
+
+To build the apk, just run:
+
+```bash
+nix build .
+# Or if you don't want to install latest Nix and enable flakes
+nix-shell -p nixUnstable
+nix --experimental-features "nix-command flakes" build .
+```
+
+##### Manually
+
 **Note:** Starting with version 2.8.0 you will need to compile libwebrtc.
 [Instructions](https://webrtc.github.io/webrtc-org/native-code/android/) can be found on the WebRTC
 website. Place the resulting libwebrtc.aar in the `libs/` directory. The PlayStore release currently
