@@ -1,8 +1,7 @@
 {
   description = "Conversations is an open source XMPP/Jabber client for Android ";
 
-  # inputs.android2nix.url = "github:Mazurel/android2nix";
-  inputs.android2nix.url = "/home/mateusz/ttais/nix/android2nix";
+  inputs.android2nix.url = "github:Mazurel/android2nix";
 
   outputs = { self, android2nix }:
     android2nix.lib.mkAndroid2nixEnv (
