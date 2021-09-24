@@ -1812,18 +1812,6 @@
     }
   },
   {
-    "path": "com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api",
-    "host": "https://dl.google.com/dl/android/maven2",
-    "pom": {
-      "sha1": "7d636f89a401a7603740ef05ac87f5a1e2811efe",
-      "sha256": "0xc5zmf6125cpdb4144mblznjs16q4k5z4jpjbbs3g4ads2z6qkw"
-    },
-    "jar": {
-      "sha1": "47f6c56527c42425742fa9b56ffd3fd80763fe03",
-      "sha256": "0h2p4b7900j3girbkayq6b92pfw283rqnn74p4nlqlqwbv8a7r2d"
-    }
-  },
-  {
     "path": "com/android/tools/common/30.0.2/common-30.0.2",
     "host": "https://dl.google.com/dl/android/maven2",
     "pom": {
@@ -2352,8 +2340,56 @@
     }
   },
   {
+    "path": "com/leinardi/android/speed-dial/2.0.1/speed-dial-2.0.1",
+    "host": "https://plugins.gradle.org/m2",
+    "pom": {
+      "sha1": "f14058e7b8ce9f0dfee8882440361d690d3a7ab3",
+      "sha256": "04y7q0wzzra7ha3z0w30c2j0r6lzj4x6npq3g8pb0gkn3n6gvyvj"
+    },
+    "aar": {
+      "sha1": "0d8f1e6ecf6b03b99e5fe067dd848ba0929ba6db",
+      "sha256": "07hdj655vj7jj3chj8217y4kvd9y2ddbhg0y56v614q3djxc8rym"
+    }
+  },
+  {
+    "path": "com/theartofdev/edmodo/android-image-cropper/2.8.0/android-image-cropper-2.8.0",
+    "host": "https://plugins.gradle.org/m2",
+    "pom": {
+      "sha1": "c11eb3dcde25493d34095335855838cce96fe27b",
+      "sha256": "0vj5lhqv64vgqwc06zgqrgbrl1cp7qyn91vxian1w45xnzxjmlmp"
+    },
+    "aar": {
+      "sha1": "b6660e2453a6c07d3b97c959218d7c1f9ce28882",
+      "sha256": "0xp1d4vfkgmqz64972bgwq12rli7vykp9hnm1qyqnirfcy3yl5jm"
+    }
+  },
+  {
+    "path": "io/michaelrocks/libphonenumber-android/8.12.18/libphonenumber-android-8.12.18",
+    "host": "https://plugins.gradle.org/m2",
+    "pom": {
+      "sha1": "737531e8d979072901071021c71aeeef695a6348",
+      "sha256": "0fgmwk8jh431nvpzpandz4xqz57d2pq16ichrp4cn307fyf2xpyn"
+    },
+    "aar": {
+      "sha1": "1a8997b449c97a1e8d00d18032a71a0c236fc893",
+      "sha256": "0dhkmk5dd6xh5anqzmnqj59l7a8qskra9y1vhf7267vvbx9ixja4"
+    }
+  },
+  {
+    "path": "org/sufficientlysecure/openpgp-api/10.0/openpgp-api-10.0",
+    "host": "https://plugins.gradle.org/m2",
+    "pom": {
+      "sha1": "7de321435d44d6f853fe507e286486e5151f4ca9",
+      "sha256": "0bii5apfx097d7alsbf77czcpl2wxr746w0d42mj63cx6ivpzlzw"
+    },
+    "aar": {
+      "sha1": "d42c3fc786ae7ab56bab085db01565df41b6de35",
+      "sha256": "0gz37p6m44mqpqm9da59rw85g5rh0p46x8cs1vw6mcm3134pz632"
+    }
+  },
+  {
     "path": "aopalliance/aopalliance/1.0/aopalliance-1.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5128a2b0efbba460a1178d07773618e0986ea152",
       "sha256": "16x5m650bipy64z3w63p55viwn06w92lj1m8cx5q8svx2lq27s16"
@@ -2365,7 +2401,7 @@
   },
   {
     "path": "commons-codec/commons-codec/1.10/commons-codec-1.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "44b9477418d2942d45550f7e7c66c16262062d0e",
       "sha256": "1yscxabk7i59vgfjg7c1y3prj39h1d8prnwgxbisc4ni29qdpf5x"
@@ -2376,20 +2412,20 @@
     }
   },
   {
-    "path": "commons-codec/commons-codec/20041127.091804/commons-codec-20041127.091804",
-    "host": "https://plugins.gradle.org/m2/",
+    "path": "commons-codec/commons-codec/1.15/commons-codec-1.15",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
-      "sha1": "594ce2a558a1273cabdbf7db01a64716e6a90276",
-      "sha256": "0fzindrxh32ji4dpl69q9wxd1ankijw8y43r975m3gfdfh0dnri3"
+      "sha1": "c08f2dcdbba1a9466f3f9fa05e669fd61c3a47b7",
+      "sha256": "0n5b40x4wsmygna7fivix3cy9rs2yv5ikx30g141adsslfcf2vn8"
     },
     "jar": {
-      "sha1": "17b1ff59f0916ac7bcff704e712415a0d49d468d",
-      "sha256": "1yalmdgwmzwa32dbaf1a13hb0ih357nmzc3cas2aivryc9vv49q8"
+      "sha1": "49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d",
+      "sha256": "0qzd8v96j4x7jjcfpvvdh9ar1xhwxpxi2rh51nzhj0br7bbgdsdk"
     }
   },
   {
     "path": "commons-io/commons-io/2.4/commons-io-2.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9ece23effe8bce3904f3797a76b1ba6ab681e1b9",
       "sha256": "1wiikf78kr9k4pk68hb9jb9whrv19w8ir2kgxckad3wrrx3dvddj"
@@ -2401,7 +2437,7 @@
   },
   {
     "path": "commons-logging/commons-logging/1.2/commons-logging-1.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "075c03ba4b01932842a996ef8d3fc1ab61ddeac2",
       "sha256": "085vkxrh0hg2kwbyjblp0820hl1cpk38w5fc0zyzd1hdaymba6n9"
@@ -2412,8 +2448,20 @@
     }
   },
   {
+    "path": "com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api",
+    "host": "https://repo.maven.apache.org/maven2",
+    "pom": {
+      "sha1": "d2a89c5569f53a8c8adfe599ede88cb6f38a8a6e",
+      "sha256": "1sr2ksrjzr9gv0y70w17l97x9a2anlv63lx7n803lgvxf2gig7fl"
+    },
+    "jar": {
+      "sha1": "085bee1acea9e27152b920746c68133b30b11431",
+      "sha256": "16nfz9w0zpbbb0ghsab3gfp53imkr4d3gvhlgaz1m7v7w4d1bd78"
+    }
+  },
+  {
     "path": "com/beust/jcommander/1.78/jcommander-1.78",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d99f5df85ea6656189de6865d34653a804feca16",
       "sha256": "19z228sbq81maxldczkr75nczxp6x465kddnaq9dxrpf18f27vkg"
@@ -2425,7 +2473,7 @@
   },
   {
     "path": "com/github/javaparser/javaparser-core/3.17.0/javaparser-core-3.17.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "131f6e7bed84d0ec0e961a5186057392d3566971",
       "sha256": "162xf6l0gpdgc46139xrwnkbjvirjh5vl5acy6y7pw5vighphagr"
@@ -2437,7 +2485,7 @@
   },
   {
     "path": "com/github/javaparser/javaparser-parent/3.17.0/javaparser-parent-3.17.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "833c0128105299907733875160a197ea73520ab1",
       "sha256": "0cln8dg2ba1fff38kvhkj8m6315fhaijydyvayqzjypm8c1c2844"
@@ -2445,7 +2493,7 @@
   },
   {
     "path": "com/googlecode/json-simple/json-simple/1.1/json-simple-1.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a2c3a73d894b86ac979b88be6537b284eb4bf916",
       "sha256": "1avxrxknd1xy8ahq67rrkh8jlkb5hwsciljzvdvd9v8gzbh9pa27"
@@ -2457,7 +2505,7 @@
   },
   {
     "path": "com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "be6da8320adedafc712d645ddaaad00357b55408",
       "sha256": "0sq85z68pcf87j9vcis5garlxl325lz0q01skcm69kf76ndkjikq"
@@ -2469,7 +2517,7 @@
   },
   {
     "path": "com/google/android/annotations/4.1.1.4/annotations-4.1.1.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c5a23d7076f3c7fd4b8f39b59ff02b1e164edc28",
       "sha256": "0y5fg9n3sj7x9c1ra8i8qkm8zpgy6i84l5bhbl77m8in7ism9fz4"
@@ -2481,7 +2529,7 @@
   },
   {
     "path": "com/google/api/grpc/proto-google-common-protos/1.12.0/proto-google-common-protos-1.12.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "583c87bb5828d170c2ae2334fb24711653e8fa20",
       "sha256": "0fhfrzg1grl5gi95bbzfkzi17zmhfbgja5k4n5g1s8r7vx2bsqhm"
@@ -2493,7 +2541,7 @@
   },
   {
     "path": "com/google/auto/auto-common/0.10/auto-common-0.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "fae722e761280e51223fdad9bee8a59f276586d2",
       "sha256": "0ch3iyhf3v40w85vsqpw619grvz4b7rnf7j6bhfpp7bhl0bxwyj6"
@@ -2505,7 +2553,7 @@
   },
   {
     "path": "com/google/auto/auto-parent/6/auto-parent-6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "0f29db646babbca0049636b6724613035bbcedff",
       "sha256": "02pa6ibw3gp0adc4zmg6b3ijaiqc41ndb3b1rw0dnrc1ck341xq5"
@@ -2513,7 +2561,7 @@
   },
   {
     "path": "com/google/auto/value/auto-value-annotations/1.6.2/auto-value-annotations-1.6.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ae1ff98291be961d9e1b14eb26bedaf0b5ac9d15",
       "sha256": "1zrzknlx3h4wgnf5rcvdy5nks1jl1lpyh367dnlplvn95x3csxhw"
@@ -2525,7 +2573,7 @@
   },
   {
     "path": "com/google/auto/value/auto-value-annotations/1.8.2/auto-value-annotations-1.8.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b50f6be2fc88ebdf201fe89c871e2c0d4d96cf95",
       "sha256": "083560cp200w5w3h2ksn1piazrr2i0466n6rx49055ygb1vd8h2z"
@@ -2537,7 +2585,7 @@
   },
   {
     "path": "com/google/auto/value/auto-value-parent/1.6.2/auto-value-parent-1.6.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5eb0685cabce285064a62a7b9c6c256343a58285",
       "sha256": "0768gzipyjr709lac0lr1vv61g6r6chbgh0943vczxbr47441di7"
@@ -2545,7 +2593,7 @@
   },
   {
     "path": "com/google/auto/value/auto-value-parent/1.8.2/auto-value-parent-1.8.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c86ec2e16ac581366a70e4739125a43b133210fb",
       "sha256": "0rpnrkw72s45lw506kh5dlh7d4b1ihbvcby4bwc5j8wh0mn52jkf"
@@ -2553,7 +2601,7 @@
   },
   {
     "path": "com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "67ea333a3244bc20a17d6f0c29498071dfa409fc",
       "sha256": "0fm9gfc8ris3mq3zp06ra8fks3f8mxj60vdnybp7lg8w668r3azy"
@@ -2565,7 +2613,7 @@
   },
   {
     "path": "com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8d93cdf4d84d7e1de736df607945c6df0730a10f",
       "sha256": "1zldsximvzlag566i5r2i124d5vs2jw4brjy39hb4m5jy6yrv20r"
@@ -2577,7 +2625,7 @@
   },
   {
     "path": "com/google/code/gson/gson-parent/2.7/gson-parent-2.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3e147803ee87007ec82a1f625a0034be35c9b8a8",
       "sha256": "0ar7wk4zrdlb56jywsk6v3cpji8cjsi3kzmcr061yc12fdrqq7l7"
@@ -2585,7 +2633,7 @@
   },
   {
     "path": "com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "df4e302623519c6b801aee5281bada262b9ed876",
       "sha256": "1ljcy2x9lbwvlp1ik12wbfnklwsrigfwz3bw8r5vrwg9n5lq678g"
@@ -2593,7 +2641,7 @@
   },
   {
     "path": "com/google/code/gson/gson-parent/2.8.5/gson-parent-2.8.5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "40f295fd74fbe91f1589481c967b14f176d6e549",
       "sha256": "09vv4d94lm8blnrmavbw15mln4niqiwggx9rxhwylw8sp5rfq7wg"
@@ -2601,7 +2649,7 @@
   },
   {
     "path": "com/google/code/gson/gson-parent/2.8.6/gson-parent-2.8.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "88d12a7aeaeaa9bbc773bc5f32690edf4d3ff9e6",
       "sha256": "0x5761zgyz6f6pz244832d26i3rax0599578jmr2c6gcb4w4cdip"
@@ -2609,7 +2657,7 @@
   },
   {
     "path": "com/google/code/gson/gson-parent/2.8.8/gson-parent-2.8.8",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "02b7b46c75a3cc305a9139ac021455d3d535d31b",
       "sha256": "0vwsy3imh4fzf5idyxnczqf9j4p189pm1jnmvms72nx5jzadl4r1"
@@ -2617,7 +2665,7 @@
   },
   {
     "path": "com/google/code/gson/gson/2.7/gson-2.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "09f9e39f9b791aeb73ba428ad30872f1a703edb3",
       "sha256": "1phf2qksjf75ykwgp39189jdbqsn5zrmi07g8h522yxq0zn3cfbj"
@@ -2629,7 +2677,7 @@
   },
   {
     "path": "com/google/code/gson/gson/2.8.0/gson-2.8.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "36e74e4b4e2a699b4dc43e722cd0ad436f6b21fd",
       "sha256": "0vya2vs781xzrldxwgbnjzl232n38fncg4svmd19k3slrc71lcx5"
@@ -2641,7 +2689,7 @@
   },
   {
     "path": "com/google/code/gson/gson/2.8.5/gson-2.8.5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2c18fa1082aa1c422aece88244c084be50c76500",
       "sha256": "14m0alr8966skrlfgk9fbll63csqj9cx133wzvcr5k7wlxbqac5q"
@@ -2653,7 +2701,7 @@
   },
   {
     "path": "com/google/code/gson/gson/2.8.6/gson-2.8.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b9d7e274612598f1e8835d8bbe30baa5b970ca32",
       "sha256": "049r21729n48c5cpylgpxa2cqglaf3y1rg84v87x6ckkcid42x11"
@@ -2665,7 +2713,7 @@
   },
   {
     "path": "com/google/code/gson/gson/2.8.8/gson-2.8.8",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ca2c4ee90094f7e2e9020efffdedc00f089f1f1b",
       "sha256": "0csqkk6zp6kzqn63j3wz7yxq2c3fg7cz7xaf5pds21mcnddqsv1n"
@@ -2677,7 +2725,7 @@
   },
   {
     "path": "com/google/crypto/tink/tink/1.3.0-rc2/tink-1.3.0-rc2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5a666d168e1b821be33321a858f90baa5ab4b6cc",
       "sha256": "0h9z5qi8mcdgwidhr6spwyzx993q5nb90m4skbg13l43270i36jv"
@@ -2689,7 +2737,7 @@
   },
   {
     "path": "com/google/dagger/dagger/2.28.3/dagger-2.28.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "6a11b6b6db0c740dbd150e11f54c6f219fdc2891",
       "sha256": "0w7mhsrlraskqi9kzlylzzd1h44w2qwva11z2c33lg71m1csjnr6"
@@ -2701,7 +2749,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_annotations/2.3.1/error_prone_annotations-2.3.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "19c878e6870c8382864dcc459de1c6bfe7f36e54",
       "sha256": "16l1kbc7wbisjmjvkfac854ddyql0b5smdxr2vz8wdms26vydp1y"
@@ -2713,7 +2761,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_annotations/2.3.2/error_prone_annotations-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f9aadf833282cfd743aa5d330f927489ca9c8734",
       "sha256": "1d337xwnvfixxyh95dlsrwb14p7bfbwdryrwawksb2cjc5hma5wd"
@@ -2725,7 +2773,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9a23fcb83bc8ed502506a8e6c648bf763dc5bcf9",
       "sha256": "1vavpvwnawnfhw8lcnba1zv3w6c5zc8nm1kvc37wlz2g9f5769hk"
@@ -2737,7 +2785,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d759b1b643583e30d8bb6bb55f4ad434f26c44a4",
       "sha256": "0g4x4w79g0smnip1vif6ir6kzk7ci587yir05lggkxm61zzdfflq"
@@ -2749,7 +2797,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_annotations/2.9.0/error_prone_annotations-2.9.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ffe29062ff5242287b65c16ec45e6a65bb946231",
       "sha256": "1kh82i3xl6wdr9pnbhiwx6szgfc2i7gjjw5q45p88xglr5ay13m4"
@@ -2761,7 +2809,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_parent/2.3.1/error_prone_parent-2.3.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a32c199defa0dcf9c42a32c26fec4d1fbb408e58",
       "sha256": "08y16fkxl49930d2bqmic90vw9v36f02jf38344csa8im3cjaxbn"
@@ -2769,7 +2817,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_parent/2.3.2/error_prone_parent-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ea30b94538922c99fb231a2c9859790831eb0fb0",
       "sha256": "0cv33bfb7xg03p30xhn89pmx4hvpq0jri62y8af9x5qilagmnfwd"
@@ -2777,7 +2825,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_parent/2.3.4/error_prone_parent-2.3.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a9b9dd42d174a5f96d6c195525877fc6d0b2028a",
       "sha256": "11i162j51sf2443ll9vs6j14lfcwknw59h6z1y7kklk0g91mnja0"
@@ -2785,7 +2833,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_parent/2.5.1/error_prone_parent-2.5.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3cce581619abb2d892618745ef2f7f19087ecbc7",
       "sha256": "0lifkir0mn2j02dqj8rgn7635lxcf801822ybyj52fia91vpcym1"
@@ -2793,7 +2841,7 @@
   },
   {
     "path": "com/google/errorprone/error_prone_parent/2.9.0/error_prone_parent-2.9.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a4f56c023d5284d3161dac51af134af6856e1fe9",
       "sha256": "1d73xa8z8dyxg327zkk7i22nz2b3c864012dwdivaxar10yi42sj"
@@ -2801,7 +2849,7 @@
   },
   {
     "path": "com/google/flatbuffers/flatbuffers-java/1.12.0/flatbuffers-java-1.12.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f93bdcc0b38ffbec623e6610e0cddacae758cb54",
       "sha256": "1sz08f6ncahg93gm1xrrswq558cbm1m2l5g8447pfq32ajpnn8nb"
@@ -2813,7 +2861,7 @@
   },
   {
     "path": "com/google/google/1/google-1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c35a5268151b7a1bbb77f7ee94a950f00e32db61",
       "sha256": "10by4ybrjnl8zwfg4ca74d0gcl4p9l7dzlfb9iwxw7m325xb2vfd"
@@ -2821,7 +2869,7 @@
   },
   {
     "path": "com/google/google/5/google-5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d94d040e8ce2ae7ff75945227e262e369445f736",
       "sha256": "0a38gd0j67siikp3zabrdgfkk7afnzg30pz0yfkvqgyafdg397g0"
@@ -2829,7 +2877,7 @@
   },
   {
     "path": "com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e8160e78fdaaf7088621dc1649d9dd2dfcf8d0e8",
       "sha256": "1ff40d0r4d54fbb3rzdmj6i40yy88wlm4r795gda1jzyg3744q79"
@@ -2841,7 +2889,7 @@
   },
   {
     "path": "com/google/guava/guava-parent/23.0/guava-parent-23.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "79d7a4be1ccf3691ee279c5ee165385b7132f71c",
       "sha256": "0karnf4ycikvfmv3mwh25xhv56ss3s82rnszc0qf37wz686kmk36"
@@ -2849,7 +2897,7 @@
   },
   {
     "path": "com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a2c0df489614352b7e8e503e274bd1dee5c42a64",
       "sha256": "016c2q03chipb3a9ij2d0dmsrf2yyaj8rz0skj4cx5m9djs8lsgq"
@@ -2857,7 +2905,7 @@
   },
   {
     "path": "com/google/guava/guava-parent/30.1-jre/guava-parent-30.1-jre",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b732bbf7c4ceb14dfd6af514a8b8b71dd952e53b",
       "sha256": "0wvfmm3jqgpl1yqvj6q668gbp0wabn6ah3x9sql27zn4xd3vgbz2"
@@ -2865,7 +2913,7 @@
   },
   {
     "path": "com/google/guava/guava-parent/30.1.1-android/guava-parent-30.1.1-android",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5f18c1c6a72fa43823fa49b21421f87844891831",
       "sha256": "0qfpcj7kvfi8g6y7zlismk8fk5l69pvk1iadfchvxxjbzbqb1rnq"
@@ -2873,7 +2921,7 @@
   },
   {
     "path": "com/google/guava/guava-parent/30.1.1-jre/guava-parent-30.1.1-jre",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3d726f4e77f9b282e3b99bb1d62713a44cab3118",
       "sha256": "0d1qxmg3paxpb7aagf0717d71vb594r9h9mdiahvz5r4r92vs8h4"
@@ -2881,7 +2929,7 @@
   },
   {
     "path": "com/google/guava/guava-testlib/30.1.1-jre/guava-testlib-30.1.1-jre",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "718328d28bf5dcae3d414e2a862d6e594e2fb704",
       "sha256": "1x7j2ws804hmbk79pba9g3yr7ff6y96g1y83ywn3182r51dbzcg5"
@@ -2893,7 +2941,7 @@
   },
   {
     "path": "com/google/guava/guava/23.0/guava-23.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "05ce65d93433db6ef45746bcfbcef6656698851f",
       "sha256": "0kijfr2a28qpxf9zkd7i2fcpzfybpbxy50vcgh4yak3bg8mc8amc"
@@ -2905,7 +2953,7 @@
   },
   {
     "path": "com/google/guava/guava/26.0-android/guava-26.0-android",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "93ab8d808bf758a89db28cd7d021e5b011883545",
       "sha256": "01zh5y1lidyl0r9gw9gy87z6dnjy77vahpg0hyq9g1hwg9gnnvgm"
@@ -2917,7 +2965,7 @@
   },
   {
     "path": "com/google/guava/guava/30.1-jre/guava-30.1-jre",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4056c9385578a442117d1a68118def38087164da",
       "sha256": "09z9pd75vx8f2gxj4ssnqnj38znpfqzmsmbya2z4lk89a36x8iln"
@@ -2929,7 +2977,7 @@
   },
   {
     "path": "com/google/guava/guava/30.1.1-android/guava-30.1.1-android",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "34ff41652a00ad8949b211d60d2573f857330678",
       "sha256": "0ijql16nrkch66bq875dkhswwslzy6x096p4zkz86yas6ipdw65j"
@@ -2941,7 +2989,7 @@
   },
   {
     "path": "com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "0f55555f43cb33c8c2f911e962ae5e4bc2f522b0",
       "sha256": "0nfckp66ygbm7lgaw4bqfjhizd2l6xwz39pynxgqbdyli8ccj63d"
@@ -2953,7 +3001,7 @@
   },
   {
     "path": "com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1b77ba79f9b2b7dfd4e15ea7bb0d568d5eb9cb8d",
       "sha256": "16v7p0wgzi5wijl596ggcawcs1gyn5mzgqcw0xalwg8m4vdv3m0q"
@@ -2965,7 +3013,7 @@
   },
   {
     "path": "com/google/inject/guice-parent/4.2.2/guice-parent-4.2.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4233408397beed86b6097480c87665b99c8b4e25",
       "sha256": "1mipq3qqks69jh9lhnfkvqj2mnspv6ki6bvqkqxw26my48yvlx2s"
@@ -2973,7 +3021,7 @@
   },
   {
     "path": "com/google/inject/guice/4.2.2/guice-4.2.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e48cc7bfed038f313fb4e759a671035871b884b1",
       "sha256": "0yb4p41i123ibkk0kn8dmmw6mr9i8yh5cm35i3z0pcspmpfw7wq6"
@@ -2985,7 +3033,7 @@
   },
   {
     "path": "com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "47e0dd93285dcc6b33181713bc7e8aed66742964",
       "sha256": "0mghlfk0zwyv9qqd8x6p5yx4dspwnbypscrhhx2ywnqip8jaib2z"
@@ -2997,7 +3045,7 @@
   },
   {
     "path": "com/google/jimfs/jimfs-parent/1.1/jimfs-parent-1.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2283f99a6aa73205190a20cfd35078e9f7d6cec9",
       "sha256": "1g96idyskcl3ryfc3fd5lq12ay5f4nbars3h528yzq2p3rsma5f7"
@@ -3005,7 +3053,7 @@
   },
   {
     "path": "com/google/jimfs/jimfs/1.1/jimfs-1.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "380866e1e495f899631b6e1d437e4b0a69e4faa3",
       "sha256": "0i3sgapm9r7wgmrm0qlb2hzarm6q6irfbjnz5x3ppw92v5f6xa7g"
@@ -3017,7 +3065,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-bom/3.7.1/protobuf-bom-3.7.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7282c1af14379f0787f401e67c09c4b3ecf10469",
       "sha256": "1nnqrn9r9gskks3l5hjys7y08i7m406y2660k72lfvc88shdkvsl"
@@ -3025,7 +3073,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-bom/3.10.0/protobuf-bom-3.10.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4414dc69051a62cfdc674d840525f94f8979f408",
       "sha256": "0hrja206kkb5a5h1c0wvpc35dsjsc8fq9bdjal5qsrgwv83j7zrj"
@@ -3033,7 +3081,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-bom/4.0.0-rc-2/protobuf-bom-4.0.0-rc-2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1cf14b7774313bc34805dd58fffa3cbc35601184",
       "sha256": "0ck1197969n6s21q52kdysxnqh4gwk9nxkw4jbq43vxhh94yk7z3"
@@ -3041,7 +3089,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-java-util/3.10.0/protobuf-java-util-3.10.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "dd9dbd5ae7e5c6978bb725c387aaeb2dc07dfddb",
       "sha256": "00m5icc734yvczyavipkijj0magsp7iqm3ps0vnqqy875lc60rhl"
@@ -3053,7 +3101,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d0b411e81d63761989f1329e8650ef27f6f77d25",
       "sha256": "0isgblny3w76jxiy7rdab3zg6d5f1sfw7vjal5y43al7mx97m0wx"
@@ -3065,7 +3113,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-java/3.5.1/protobuf-java-3.5.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "572120a85fac0f666c59e7ced0ced43a147e3f1b",
       "sha256": "0iqdjpa4k74hl36xm7khhxqp3sbcnaxjvxn4ki671r5rcmsmr2hk"
@@ -3077,7 +3125,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-java/3.7.1/protobuf-java-3.7.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2d2e87204d85c9f4ddb7cfe0cd798e91652d7ada",
       "sha256": "1484k7dcjwps1av2350sd2yygbzrgy3z6dkwiflzmdvigfb48a5h"
@@ -3089,7 +3137,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-java/3.10.0/protobuf-java-3.10.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "db94f4481e9ef506c7dfdbb0d059892aa283ab1a",
       "sha256": "1w2sl6zipz6dc5qgk97gjimmhn97cvldzj02is4fm7gcjfqc215l"
@@ -3101,7 +3149,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-java/4.0.0-rc-2/protobuf-java-4.0.0-rc-2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8fab0fe0746b1d370663a3db7dd483c2c4d34a6f",
       "sha256": "17agfgbdfxdk304fgzk0iwsf7ggwqrwb44b3nnjc0xjdgqlxmzxb"
@@ -3113,7 +3161,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-lite/3.0.1/protobuf-lite-3.0.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "6b899d982947441869b3653aaf9942ec9198db8e",
       "sha256": "13a8xc5krm4m8xp20kysr8p6pxs4l06sxhjikpfqq702am4nla6n"
@@ -3125,7 +3173,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-parent/3.0.0/protobuf-parent-3.0.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "fa9a080c3ed2997cd84df8effd6cb8af9e4ed020",
       "sha256": "0wpjg6ai9dz9n7xa6jqws5rv90yh0jgf5dxxifavr9r4kamnnblk"
@@ -3133,7 +3181,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-parent/3.5.1/protobuf-parent-3.5.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "649fbc4b83872f8af5453f9d47a09b8017c2ce57",
       "sha256": "1s1sfwb2r7a9015824z8h80v4hgspl5yk4ihr5dybx838ww39m4c"
@@ -3141,7 +3189,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-parent/3.7.1/protobuf-parent-3.7.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3467c91a6e547f39c9d6208fa830d0f7036a1005",
       "sha256": "1whs9ci8achvz7xkpggxciydy2mqrcqqy0gq44gp550k9aa1hjm2"
@@ -3149,7 +3197,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-parent/3.10.0/protobuf-parent-3.10.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "92e4373db52230866c0352b343e3f83f25812c77",
       "sha256": "107ydmgs9vx99yjhqmqva41ajshnpw9awgsqpppzvzr5h584mn3d"
@@ -3157,7 +3205,7 @@
   },
   {
     "path": "com/google/protobuf/protobuf-parent/4.0.0-rc-2/protobuf-parent-4.0.0-rc-2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c5391c7917ca1197cbbda4efc6454a87e7e7107e",
       "sha256": "0bvynr52xjyd42n23ih635h2cmyillfbac0yjymhlp505f0p1lp0"
@@ -3165,7 +3213,7 @@
   },
   {
     "path": "com/google/truth/truth-parent/1.1.3/truth-parent-1.1.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c6d1b2aae7ea915ea285d6224914087775782f3c",
       "sha256": "1xg7mzwlbvfwnlphaa7knsajrrsgcllab9nmf3f5a4rpmsq13hls"
@@ -3173,7 +3221,7 @@
   },
   {
     "path": "com/google/truth/truth/1.1.3/truth-1.1.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8cc9b5eacd0afba4d4914cb222c587811f117651",
       "sha256": "02v6bxfcr9mrysy08dq0dqajn1p6p1s5455bywgrm2snh8frb21p"
@@ -3185,7 +3233,7 @@
   },
   {
     "path": "com/google/zxing/core/3.3.3/core-3.3.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3fc07a37b124d3f9e134854b4c7bf7dc120bcae7",
       "sha256": "0d79wvchvfbncjhla3xfhzgkwam8fs54s20pkw24i3hrjjmggnm8"
@@ -3197,7 +3245,7 @@
   },
   {
     "path": "com/google/zxing/zxing-parent/3.3.3/zxing-parent-3.3.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "04a296fa43c718f9c67efccf4201b6c08f9cbea7",
       "sha256": "0i6lzbd3qiav0c05317h7kfd89g7iw9wjl1msnbrxmh5d1xibm2n"
@@ -3205,7 +3253,7 @@
   },
   {
     "path": "com/intellij/annotations/12.0/annotations-12.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "aaa1796465aa46f478176c06456397418b34d2b3",
       "sha256": "11lhm19lbcscmfrq1qpwacp6njamfbrm7mkw6apc1q02vkh2vy7s"
@@ -3216,20 +3264,8 @@
     }
   },
   {
-    "path": "com/leinardi/android/speed-dial/2.0.1/speed-dial-2.0.1",
-    "host": "https://plugins.gradle.org/m2/",
-    "pom": {
-      "sha1": "f14058e7b8ce9f0dfee8882440361d690d3a7ab3",
-      "sha256": "04y7q0wzzra7ha3z0w30c2j0r6lzj4x6npq3g8pb0gkn3n6gvyvj"
-    },
-    "aar": {
-      "sha1": "0d8f1e6ecf6b03b99e5fe067dd848ba0929ba6db",
-      "sha256": "07hdj655vj7jj3chj8217y4kvd9y2ddbhg0y56v614q3djxc8rym"
-    }
-  },
-  {
     "path": "com/makeramen/roundedimageview/2.3.0/roundedimageview-2.3.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1552b7113acfec8d08cfb568aba4f51526502ed4",
       "sha256": "0y1yrrakyk2lng2948mdzv8w70pc8yipc0q7d4igvcv0sfr414w1"
@@ -3241,7 +3277,7 @@
   },
   {
     "path": "com/otaliastudios/opengl/egloo/0.6.1/egloo-0.6.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "613d262d2c82c03444ab134373ecdbc7367123ef",
       "sha256": "07l8pdlkfckxar7b913zvvbnck3ffn4blza5dldi3zjzvsrrrb4m"
@@ -3253,7 +3289,7 @@
   },
   {
     "path": "com/otaliastudios/transcoder/0.10.4/transcoder-0.10.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "15365c2c39cf534bb88316c4a6f90fab3146ab5f",
       "sha256": "08disb8a5vwn0db5hp2b6gdcxwbbmg6msrdcszckbhzcf4kqkihs"
@@ -3265,7 +3301,7 @@
   },
   {
     "path": "com/squareup/javapoet/1.10.0/javapoet-1.10.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "111612d623e9d2047798f13324fcb29966f080e3",
       "sha256": "1c8sf0rfv3w16qpjbh1yrkrzf87s4s4fhwzkmp5z4y924853940n"
@@ -3277,7 +3313,7 @@
   },
   {
     "path": "com/squareup/javawriter/2.5.0/javawriter-2.5.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d932f2476f65ecd95dcd6fd8c568b3f466f6a482",
       "sha256": "1c57k79i2dcyjm63k8xjjr1ck3i0i4hkwsa7k72y1xbc27qxgaz1"
@@ -3289,7 +3325,7 @@
   },
   {
     "path": "com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9e1332afd90bd8da42160422123341a40cf3644c",
       "sha256": "1rvwddy3xj3y4jyl132f3k3k6haxxb3gnbfa2895zaaffv2g7vb1"
@@ -3301,7 +3337,7 @@
   },
   {
     "path": "com/squareup/okhttp3/okhttp/4.9.1/okhttp-4.9.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ec14c25ada3f4cbbc052a4844e3575c7b76daddc",
       "sha256": "1ql0bibrdfz1yfkqfihgc9xvamh8w959ycz1w4w4ya78n81x5rz0"
@@ -3313,7 +3349,7 @@
   },
   {
     "path": "com/squareup/okhttp3/parent/3.14.9/parent-3.14.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8983b1f67e8dec9f71b534c5e26cfa8a88628f3f",
       "sha256": "1rfwqf424xkzz3l691mvg4csqzp7g30bss3v7pn34zycybf03wdm"
@@ -3321,7 +3357,7 @@
   },
   {
     "path": "com/squareup/okio/okio/2.8.0/okio-2.8.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "db3559887f215bc3cdbb4ad37d246d04fbbdff8e",
       "sha256": "10clihpazwlsml3jhn2pqi8w37cs5a07d1gyr1x46zsczml40896"
@@ -3333,7 +3369,7 @@
   },
   {
     "path": "com/squareup/okio/okio/3.0.0-alpha.10/okio-3.0.0-alpha.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5e8792b318a95e32e3898534e34aa4c78a3fbde3",
       "sha256": "0g0lz46v6whx4v8qr2kn07gjm6zgwdrxs8jz8cwlfr0ywfxjy177"
@@ -3345,7 +3381,7 @@
   },
   {
     "path": "com/squareup/retrofit2/converter-gson/2.9.0/converter-gson-2.9.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "566f3b500a0bb427d3545205c129abae2898e06c",
       "sha256": "13z7lnsz9prj5jaghjgjm38k9bvvhsijc86r5p02inv438ajly32"
@@ -3357,7 +3393,7 @@
   },
   {
     "path": "com/squareup/retrofit2/retrofit/2.9.0/retrofit-2.9.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "007531ed205c184d938c4692b70f302e3ff94875",
       "sha256": "14z4s0jnzip0vzwriyabqssad2l6q73raxp7qhvfx6fnvqqnmsgp"
@@ -3369,7 +3405,7 @@
   },
   {
     "path": "com/sun/activation/all/1.2.0/all-1.2.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9b1023e38195ea19d1a0ac79192d486da1904f97",
       "sha256": "1i62n3icq23pssrvvii30x9jx63wygg7ggppwh2a2ckmmkiii18x"
@@ -3377,7 +3413,7 @@
   },
   {
     "path": "com/sun/activation/all/1.2.1/all-1.2.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "efca912f55f71e63ab2eb82552519b66dd123f98",
       "sha256": "15b71qbj1yy8f6la0lqdcwddsdima3v85wmqc7qwwvj8cjzq621n"
@@ -3385,7 +3421,7 @@
   },
   {
     "path": "com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "bdb776ae9b888b7ad8f9f424b9e67837eae916c5",
       "sha256": "0piadm0mqh1p9747mzapw7kkvayphj1irvnvn006jk458plvcygq"
@@ -3397,7 +3433,7 @@
   },
   {
     "path": "com/sun/istack/istack-commons-runtime/3.0.8/istack-commons-runtime-3.0.8",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "fd5dfcff9a1f1e7e4371c6a998b74ee0e52bdc4a",
       "sha256": "074gf16x28f4yv67wcx751115905qd2nr634s23x4kmq9k9i9q62"
@@ -3409,7 +3445,7 @@
   },
   {
     "path": "com/sun/istack/istack-commons-runtime/4.1.0-M1/istack-commons-runtime-4.1.0-M1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "56beadc8553b987c0501804b77ca4cacde73c14e",
       "sha256": "1h5f6iibqh5airhjry3fcam121bq45bgrdw7xqgfjiaglnc33q4z"
@@ -3421,7 +3457,7 @@
   },
   {
     "path": "com/sun/istack/istack-commons/3.0.8/istack-commons-3.0.8",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3835dae3b9e529039b70bce883a1c7438713c295",
       "sha256": "1rgbqz0ghbk6vhwmcrbdv31d18v6clpw35c2gg6gpw0jhmz53w50"
@@ -3429,7 +3465,7 @@
   },
   {
     "path": "com/sun/istack/istack-commons/4.1.0-M1/istack-commons-4.1.0-M1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "82af125fbeefab25f7aefaceaa11156a01323ce8",
       "sha256": "1pir9midb198j3wqjx8irxjvfgnqyf1dhqhr5pb0kmwi4cn809h2"
@@ -3437,7 +3473,7 @@
   },
   {
     "path": "com/sun/xml/bind/jaxb-bom-ext/2.3.2/jaxb-bom-ext-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7a92d12e31a67bae498f840c8f7c334a4fee0fbb",
       "sha256": "1mwvjmc964wqy3ph9f6imirx8kzg1nwz336v9is5bq774wmyqz8s"
@@ -3445,7 +3481,7 @@
   },
   {
     "path": "com/sun/xml/bind/jaxb-bom-ext/3.0.2/jaxb-bom-ext-3.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "546abdae08eea53fadc33675db0809ef597c41d5",
       "sha256": "044cmwbzba8lbckm4fyiyiwqcsjc4gks2gdvll8q6xbck598hi4d"
@@ -3453,7 +3489,7 @@
   },
   {
     "path": "com/sun/xml/bind/mvn/jaxb-parent/2.3.2/jaxb-parent-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "05d96ada92105844d8a2eedfb63bf782a712cc0a",
       "sha256": "061ssnz06mvcxwcb237cs1x39i1f4a92xn511p29lm5p9b1nvp90"
@@ -3461,7 +3497,7 @@
   },
   {
     "path": "com/sun/xml/bind/mvn/jaxb-parent/3.0.2/jaxb-parent-3.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2eecc62fba24c452765f8f2923b0b576758fd8b0",
       "sha256": "0wwniklxb543rzcvq7y4fsp5h87c2kicxj25mg1pyzr5hivj3w0x"
@@ -3469,7 +3505,7 @@
   },
   {
     "path": "com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.2/jaxb-runtime-parent-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b9916bbbf37042807a649a2a7fcb6b97e193c28a",
       "sha256": "1v1khm4f12n50drmy76y9sj23szgrziw0j3dp30qp9l4y58qskxj"
@@ -3477,7 +3513,7 @@
   },
   {
     "path": "com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.2/jaxb-txw-parent-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1f872b3cb7c49c35501651aab063659a9775f06a",
       "sha256": "190lnc0nyhvlkfx9w21xfca37y80nv67hb7960x4i3qmkgx3wpdm"
@@ -3485,7 +3521,7 @@
   },
   {
     "path": "com/sun/xml/bind/mvn/jaxb-txw-parent/3.0.2/jaxb-txw-parent-3.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d3a1d7c302af4dc2ee16cbf08a4c8a245eabfb8c",
       "sha256": "1ax0q5l02qklasc5p44wx8bfpk9dwjrw2bizbkrbnbjsh36bqnhd"
@@ -3493,7 +3529,7 @@
   },
   {
     "path": "com/sun/xml/fastinfoset/FastInfoset/1.2.16/FastInfoset-1.2.16",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e4d2eed02e0e0a9f4c892e6d43bdf3dfdc1fa2ee",
       "sha256": "0c78121if8xyw7djih69z1c7av3f1r055acr0pvr2rkfmdcd4iz1"
@@ -3505,7 +3541,7 @@
   },
   {
     "path": "com/sun/xml/fastinfoset/FastInfoset/2.0.0/FastInfoset-2.0.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b8a2b76957425901126b54e433583e099302b923",
       "sha256": "07apq9k1571ygzf8jkb945m7zr18gldfa7aqfw01jhazkxy5idyy"
@@ -3517,7 +3553,7 @@
   },
   {
     "path": "com/sun/xml/fastinfoset/fastinfoset-project/1.2.16/fastinfoset-project-1.2.16",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "86113f7ee9a5d995429bf75294b57b31f0a17d29",
       "sha256": "1fljc9j2zmbbbq6n4yayman2a4lkfd8vkbrd6r0hpx61mljj8n4h"
@@ -3525,27 +3561,15 @@
   },
   {
     "path": "com/sun/xml/fastinfoset/fastinfoset-project/2.0.0/fastinfoset-project-2.0.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4746c68d686a9b00a1874253201f16028f475542",
       "sha256": "08xvri3k1w2ldgs69nb5f0sgzfg29gk1hln98a926721dqr13fm1"
     }
   },
   {
-    "path": "com/theartofdev/edmodo/android-image-cropper/2.8.0/android-image-cropper-2.8.0",
-    "host": "https://plugins.gradle.org/m2/",
-    "pom": {
-      "sha1": "c11eb3dcde25493d34095335855838cce96fe27b",
-      "sha256": "0vj5lhqv64vgqwc06zgqrgbrl1cp7qyn91vxian1w45xnzxjmlmp"
-    },
-    "aar": {
-      "sha1": "b6660e2453a6c07d3b97c959218d7c1f9ce28882",
-      "sha256": "0xp1d4vfkgmqz64972bgwq12rli7vykp9hnm1qyqnirfcy3yl5jm"
-    }
-  },
-  {
     "path": "com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "461db3fbd183b9ed27751bbdbafcd1bc9654fe7c",
       "sha256": "0p915mapc1r53vw0n0wfsc24s7jrn21fxfgaxp4k1ysfs0b6can5"
@@ -3557,7 +3581,7 @@
   },
   {
     "path": "com/wefika/flowlayout/0.4.1/flowlayout-0.4.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3ac5d0437ad617dfa8bc6d723b0cf114bc79be38",
       "sha256": "039dgqsa3wss8qswh18qh1sxz31dv9565ls0fiz55d93p7anb4kp"
@@ -3569,7 +3593,7 @@
   },
   {
     "path": "de/measite/minidns/minidns-core/0.2.4/minidns-core-0.2.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "37aabd5eb5f61db0761be03aa8e7909de131efe3",
       "sha256": "04viw9w4y87s60rlb523d2daxh4bjzn835433msh0nbkmj8kf9bl"
@@ -3581,7 +3605,7 @@
   },
   {
     "path": "de/measite/minidns/minidns-dnssec/0.2.4/minidns-dnssec-0.2.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4efcdfb5f5a35e48c9223ec7e455dce435dc9867",
       "sha256": "0xmr9czjs9z154y5nf3mbi38qqrszv0npq8201irs02v354qzlyx"
@@ -3593,7 +3617,7 @@
   },
   {
     "path": "de/measite/minidns/minidns-hla/0.2.4/minidns-hla-0.2.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "616ead63edeb76b2d243d098451ab1053c26e9a1",
       "sha256": "0hdmy7rs567a2gcq7jxj2kzf0c6118pcsknbj3jlmirdkn5sw0lp"
@@ -3605,7 +3629,7 @@
   },
   {
     "path": "de/measite/minidns/minidns-iterative-resolver/0.2.4/minidns-iterative-resolver-0.2.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7392eb297187025361cbce3c34e83112c7d40906",
       "sha256": "07zdnvgyf2qql8fj7zs967skdpz6nb3xk9iq9mbb1f1xmyffgq4v"
@@ -3617,7 +3641,7 @@
   },
   {
     "path": "info/picocli/picocli/4.5.2/picocli-4.5.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "603bd44eb34ac092faeb1a01992a987af204e2dc",
       "sha256": "1qjf5hq2ch5azszyfs9nlm5pc10bqbm3i97ll81hfh01bap9dyrb"
@@ -3629,7 +3653,7 @@
   },
   {
     "path": "io/grpc/grpc-api/1.21.1/grpc-api-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "504b90430e48910d71e1598077338da6d54140a5",
       "sha256": "1p32qfvy05navyyksw1pfnk74sx0614l0vkrfaasis90wr9rr88d"
@@ -3641,7 +3665,7 @@
   },
   {
     "path": "io/grpc/grpc-context/1.19.0/grpc-context-1.19.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "054c2f2244451ffb36656a404fc2095a836fe18c",
       "sha256": "12cgnv7zp0ffswcjjjm792xnc8cpvqcd8zfvhnj5kxryklwd84vy"
@@ -3653,7 +3677,7 @@
   },
   {
     "path": "io/grpc/grpc-context/1.21.1/grpc-context-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "78cafcd57253e02a2b93bd7ce34ee78494866a2f",
       "sha256": "01is2h355rp4kf8x782bxrl0xlv81fcal7f0ar7w0965piy33hm1"
@@ -3665,7 +3689,7 @@
   },
   {
     "path": "io/grpc/grpc-core/1.21.1/grpc-core-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "62baa94560346b8781f83e4e964ffc99f6d9f325",
       "sha256": "167rf153yj701sgv6vjg62s1jf41sm89lkp1wnr5sc1gi3xkcqrs"
@@ -3677,7 +3701,7 @@
   },
   {
     "path": "io/grpc/grpc-netty/1.21.1/grpc-netty-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "add76d3c47a8f2b821e6073f936bb79805895182",
       "sha256": "11a0flsnfxspa7j8l2y8ksddfmr5c2j3nr2as0cbggapipqh115s"
@@ -3689,7 +3713,7 @@
   },
   {
     "path": "io/grpc/grpc-protobuf-lite/1.21.1/grpc-protobuf-lite-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "917f3b38b16e3ca4d638525958979b1a49d976b4",
       "sha256": "1wdgr2hlq4z0p6gy1r5wb32c5rci7ci395dj4lki5kznp9b5f858"
@@ -3701,7 +3725,7 @@
   },
   {
     "path": "io/grpc/grpc-protobuf/1.21.1/grpc-protobuf-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a144482ff250e2f357379c30694e71bc6c2e67dd",
       "sha256": "18rdanmp9139y446d8z6z5rk4k1asqkf15d6yiwvx30pyrspdy36"
@@ -3713,7 +3737,7 @@
   },
   {
     "path": "io/grpc/grpc-stub/1.21.1/grpc-stub-1.21.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "cda5896a90ac55a06da1ada8a551decb2c2d6682",
       "sha256": "0xcfrbl60hx1g9rdwzwva7n66iz0jixn9rqf6vqv46r1qb1wvl7d"
@@ -3724,20 +3748,8 @@
     }
   },
   {
-    "path": "io/michaelrocks/libphonenumber-android/8.12.18/libphonenumber-android-8.12.18",
-    "host": "https://plugins.gradle.org/m2/",
-    "pom": {
-      "sha1": "737531e8d979072901071021c71aeeef695a6348",
-      "sha256": "0fgmwk8jh431nvpzpandz4xqz57d2pq16ichrp4cn307fyf2xpyn"
-    },
-    "aar": {
-      "sha1": "1a8997b449c97a1e8d00d18032a71a0c236fc893",
-      "sha256": "0dhkmk5dd6xh5anqzmnqj59l7a8qskra9y1vhf7267vvbx9ixja4"
-    }
-  },
-  {
     "path": "io/netty/netty-buffer/4.1.34.Final/netty-buffer-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a3ca3438b1e607a25f913e44f8f8bdbb2c5b0d9d",
       "sha256": "09wr7ql1lhkqfd08mg4vr4nv5pqbbl0wkvf8b3g44rhvlx5hz15g"
@@ -3749,7 +3761,7 @@
   },
   {
     "path": "io/netty/netty-buffer/5.0.0.Alpha2/netty-buffer-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "0c145d670f23ccf322fcaaf6e4611e85c9d4493b",
       "sha256": "0kp7f49vqgichnanyzcifgcj7frs198wyxl5z8c4yvqagg3lfxgx"
@@ -3761,7 +3773,7 @@
   },
   {
     "path": "io/netty/netty-codec-http2/4.1.34.Final/netty-codec-http2-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "256a7c4c25b5cd1e3e360d0d99a1bfc853a00c98",
       "sha256": "15a6x6qp51mw6sga2xzjy10w7kvgq5fxazf1ll5chnbjr8vnf9v3"
@@ -3773,7 +3785,7 @@
   },
   {
     "path": "io/netty/netty-codec-http/4.1.34.Final/netty-codec-http-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7f628ef0c77449ec695649617b2c492dc5d7ffea",
       "sha256": "1cxyvjk99dav8xp0f5hxw2520ghmiw8dwzgz974j7h9s8gxmyq61"
@@ -3785,7 +3797,7 @@
   },
   {
     "path": "io/netty/netty-codec-http/5.0.0.Alpha2/netty-codec-http-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b05554ab2c08cf9c121ad04cfaf6be13814b1511",
       "sha256": "1w00b963nfdkh3hkhh4bj95fcsbggzbyj64r0kjr7cf1zw26vn54"
@@ -3797,7 +3809,7 @@
   },
   {
     "path": "io/netty/netty-codec-socks/4.1.34.Final/netty-codec-socks-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c1cdb87e69a616bc081319110ec6b8764af2026a",
       "sha256": "16mn8hnvqiaagpiwblnwlwsx20yv2vgwpmairwspnfzabsk0gag8"
@@ -3809,7 +3821,7 @@
   },
   {
     "path": "io/netty/netty-codec-socks/5.0.0.Alpha2/netty-codec-socks-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c113d4433edbecf2f34baab45da61a99b88865ef",
       "sha256": "1m7kj2blvq6nbzixaml346ms9cdykkam68vdh91b70qc9b13mv88"
@@ -3821,7 +3833,7 @@
   },
   {
     "path": "io/netty/netty-codec/4.1.34.Final/netty-codec-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9f0655ef901aff9c12392a1902f8d3bb6aa15f7a",
       "sha256": "1bp2qqy6z7q6rvxn188gj1j4w5wd9sm4sg40fs8bkbappfi7xn7v"
@@ -3833,7 +3845,7 @@
   },
   {
     "path": "io/netty/netty-codec/5.0.0.Alpha2/netty-codec-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2b4218526aba38a9d068515fbbd47db4620dfba6",
       "sha256": "0s4l4n1hpdjf3mxnr5i3nrv0l7yfycii22xvxzvpgk0lcn6sb308"
@@ -3845,7 +3857,7 @@
   },
   {
     "path": "io/netty/netty-common/4.1.34.Final/netty-common-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c8c470bae99389c3267db4d53a2041e36f77aadd",
       "sha256": "06ibr6ml99p4ix8ilkp6ha9yhnx60y714cinxqz5g2ic49c1ap43"
@@ -3857,7 +3869,7 @@
   },
   {
     "path": "io/netty/netty-common/5.0.0.Alpha2/netty-common-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "214d9773a826b6737ff37207530c3ce2cd08df01",
       "sha256": "1621cb1s74hvj3z2p111z3yd80vznqs3299ris57s7vnvjxxjvvk"
@@ -3869,7 +3881,7 @@
   },
   {
     "path": "io/netty/netty-handler-proxy/4.1.34.Final/netty-handler-proxy-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c03a4c4484bd745ee1803090012753c89ca349fa",
       "sha256": "1ysw5wc3sar2f1dzc3d8w9wb10s86xk90a3g2r7l9ip1fhb3vshy"
@@ -3881,7 +3893,7 @@
   },
   {
     "path": "io/netty/netty-handler/4.1.34.Final/netty-handler-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "41ace5597164d88c1dd5fe6ed9f65f9cf66513d5",
       "sha256": "09mdsakjvzmg9aprmqcwbmd6dczyaii6xaz765l1ibqk3ap7sxgb"
@@ -3893,7 +3905,7 @@
   },
   {
     "path": "io/netty/netty-handler/5.0.0.Alpha2/netty-handler-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "29ff1937ec235692e87a49939d558ba867053c6d",
       "sha256": "14glq1l78s6y5n1w3c3x7b42kql6dlscshgpfi3rqx5fi7cngz9m"
@@ -3905,7 +3917,7 @@
   },
   {
     "path": "io/netty/netty-parent/4.1.34.Final/netty-parent-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1246042bbf6b658c718fb3724fb217cf5cc81a4e",
       "sha256": "07sb7qm9slgskj45pigsp06f4rqzp28s7bhpdnz9m2mff1znp7ky"
@@ -3913,7 +3925,7 @@
   },
   {
     "path": "io/netty/netty-parent/5.0.0.Alpha2/netty-parent-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9766944a6b42805ad9a3db93b711ead720892d28",
       "sha256": "0wcdx5x4flivh07yx0lnvl8h4hkxvng772zj2gp0i6rhm5l9mpqh"
@@ -3921,7 +3933,7 @@
   },
   {
     "path": "io/netty/netty-resolver/4.1.34.Final/netty-resolver-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2f795deaa337a2cfacf16c8684d48b3a6e8c7a41",
       "sha256": "1m1vfblsn635sdl1mgy2f3z2xahwz8sgb0q0n45sygk2sp9wdcxc"
@@ -3933,7 +3945,7 @@
   },
   {
     "path": "io/netty/netty-resolver/5.0.0.Alpha2/netty-resolver-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2ccea58f7748ac25d641cac9d9c48a0f7ec534b3",
       "sha256": "163758pxab104nwm91w8wq84kbbif4ih9zmqb7ihhndfyji5ypzy"
@@ -3945,7 +3957,7 @@
   },
   {
     "path": "io/netty/netty-transport/4.1.34.Final/netty-transport-4.1.34.Final",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "10f67f4c6669fcd7024b67cf8fd0cd33e26a2a56",
       "sha256": "0a9k8r4qibsyrpai2sd62w1hphpc924k5cc4h16wanw1gdrk6wm3"
@@ -3957,7 +3969,7 @@
   },
   {
     "path": "io/netty/netty-transport/5.0.0.Alpha2/netty-transport-5.0.0.Alpha2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f7db0ccc93971fd0fde3295dec00e3d268395d16",
       "sha256": "0pm4h6riykf91d93j81zm6mq20wn0ajhkfjbvrnljn4izn6g1xx5"
@@ -3969,7 +3981,7 @@
   },
   {
     "path": "io/opencensus/opencensus-api/0.21.0/opencensus-api-0.21.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "22833c1b793344ae7701dd74506d86df2af5d1c0",
       "sha256": "16s391wbxk2rbqgyr97rrhmkpgqa3jgxik8grwah68lqnk6yiwg2"
@@ -3981,7 +3993,7 @@
   },
   {
     "path": "io/opencensus/opencensus-contrib-grpc-metrics/0.21.0/opencensus-contrib-grpc-metrics-0.21.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "075621314e97c29e7c43cb94edd6f796e1dae5be",
       "sha256": "13kmy273fp98mfiw1qa2lsqvrmfk3va08518bn6fxmiwwshqb24h"
@@ -3993,7 +4005,7 @@
   },
   {
     "path": "it/unimi/dsi/fastutil/8.4.0/fastutil-8.4.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7ec92f6e71ce4abebde5cebd574a6f27528959d7",
       "sha256": "08i89247zbj7flnvjbl4rkg185kr82fv9c4f828krvfmqxk6y3hi"
@@ -4005,7 +4017,7 @@
   },
   {
     "path": "jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b9c1b2502949970360efe8d75ec5268d87d38a82",
       "sha256": "0cfd0gznkrgv89lx3lvslr3a4i0r0r00jppb0jm26zysgnq5qn22"
@@ -4017,7 +4029,7 @@
   },
   {
     "path": "jakarta/activation/jakarta.activation-api/2.1.0-RC1/jakarta.activation-api-2.1.0-RC1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d3db04941d1888e189153f3bf60eea872db58c3f",
       "sha256": "0gwrnn03rgx0pq2dxa4iqzclxnw465cv7aak6kr0v13skhhgmk3h"
@@ -4029,7 +4041,7 @@
   },
   {
     "path": "jakarta/xml/bind/jakarta.xml.bind-api-parent/2.3.2/jakarta.xml.bind-api-parent-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7be72e8345e33f747d5d813e313abd8df25f259e",
       "sha256": "1yvdibflf4lzsaxpcbqhyrgzcnf0jypx4a5dmrq9k7vwadymp98m"
@@ -4037,7 +4049,7 @@
   },
   {
     "path": "jakarta/xml/bind/jakarta.xml.bind-api-parent/4.0.0-RC1/jakarta.xml.bind-api-parent-4.0.0-RC1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "efe14e69792180ca3f81078c14c0bd547e5dca26",
       "sha256": "1sx2yqsfskirdzdq0ag9by16n9a6hnpmjpnh2fkljqhkzk7qpxwc"
@@ -4045,7 +4057,7 @@
   },
   {
     "path": "jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "6142021e7186bf29f5f7639b968cfe250ce086dd",
       "sha256": "1mhs2fmhw4skdv7plmil2x9p5mi4873v0bwx1dlw0k5bvf4b6dxm"
@@ -4057,7 +4069,7 @@
   },
   {
     "path": "jakarta/xml/bind/jakarta.xml.bind-api/4.0.0-RC1/jakarta.xml.bind-api-4.0.0-RC1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4564665af2595621358ad4fefe79e8d3f2ef67e5",
       "sha256": "1nbh7hrd5ly4440ldmcyv29pkbw2sgsv9c0ivfiq4c1bj0ykmhn9"
@@ -4069,7 +4081,7 @@
   },
   {
     "path": "javax/inject/javax.inject/1/javax.inject-1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b8e00a8a0deb0ebef447570e37ff8146ccd92cbe",
       "sha256": "1ylb39if9gqyj98fccb54s0ad25p19d811d2ixih8y3202qi4gll"
@@ -4081,7 +4093,7 @@
   },
   {
     "path": "jline/jline/2.14.6/jline-2.14.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "378c8caace8e1e65314477420d9734373cf29531",
       "sha256": "10p9lj1n9fiq89sz1g9jiifrqf4ydad6afxrsrla50gvipqbdxqx"
@@ -4093,7 +4105,7 @@
   },
   {
     "path": "junit/junit/4.12/junit-4.12",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "35fb238baee3f3af739074d723279ebea2028398",
       "sha256": "1i29aji7rribs7b8a6ql0xca5vm4xgkyjzfrg8f6zyrzivvn7wch"
@@ -4105,7 +4117,7 @@
   },
   {
     "path": "junit/junit/4.13.1/junit-4.13.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "643e8b4c40dca9f0b0abd8125d378d9f47d7d69e",
       "sha256": "1mj0zx9rhg9zm9dcdb5mv1bm185zy8mk198j5r1y3smavbgfz3f6"
@@ -4117,7 +4129,7 @@
   },
   {
     "path": "junit/junit/4.13.2/junit-4.13.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "73bc5be628edeb297a1caf421a5a2e494798b92f",
       "sha256": "156xxa4wv4nh9nbbc3hnn28r55kfz9c30v64q5jwj0s6xrvnk6sn"
@@ -4129,7 +4141,7 @@
   },
   {
     "path": "junit/junit/4.13/junit-4.13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5c17760663fae422643fc859fd352c68a1d91bfc",
       "sha256": "0zi6n82n77y02wsj0knfn4y7r11ppgs7wwr6h9q6w21bzb1w83cs"
@@ -4141,7 +4153,7 @@
   },
   {
     "path": "me/drakeet/support/toastcompat/1.1.0/toastcompat-1.1.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d34b7f818a373ad0bddae1e82b01e18e197dee30",
       "sha256": "1r3vgspks93h4hj47abk82yk9f1kapihnr1qx89grp65vxim9ghy"
@@ -4153,7 +4165,7 @@
   },
   {
     "path": "me/leolin/ShortcutBadger/1.1.22/ShortcutBadger-1.1.22",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a9a3f4bd25e571e52f4503670d580b3e4b40c43b",
       "sha256": "12njdja1c1mf0s58pnlyz9q1rbx77p64inzgpfamvpnlk8h0myqw"
@@ -4165,7 +4177,7 @@
   },
   {
     "path": "net/bytebuddy/byte-buddy-agent/1.11.13/byte-buddy-agent-1.11.13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "462542bd3a41955bedcb1b86512cf10d1280575d",
       "sha256": "1d3f9cv9bjmzig3bd5ik80kh8ydv9ynaxlmcw5naijbmd83l8f5h"
@@ -4177,7 +4189,7 @@
   },
   {
     "path": "net/bytebuddy/byte-buddy-parent/1.11.13/byte-buddy-parent-1.11.13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e3334dfff8e86e2caf5c632bc98e6fca2f1a4222",
       "sha256": "02h1i2jb7fi4qxirwmjkmarrd700dpknxfdia1hnj5wf92d3r6h5"
@@ -4185,7 +4197,7 @@
   },
   {
     "path": "net/bytebuddy/byte-buddy/1.11.13/byte-buddy-1.11.13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3d4916e320cae88ae58704cedc347c1eebca0ca8",
       "sha256": "15xcss8alk2lzqwqy0mn9k99fbyj0s5xc6v3phlzf263p7kdmf9a"
@@ -4197,7 +4209,7 @@
   },
   {
     "path": "net/java/dev/jna/jna-platform/5.6.0/jna-platform-5.6.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f86d5b088d311a7dee895e06cb2a08ccada7cbde",
       "sha256": "0a2f74r5i55b6j8yjqir4q5dmlrdhnyswbp3lw3ckrl4875kbsqv"
@@ -4209,7 +4221,7 @@
   },
   {
     "path": "net/java/dev/jna/jna/5.6.0/jna-5.6.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e542808a6326ec0302c0b09011cb4363e1ece380",
       "sha256": "02163y1nlwyq70h9n79y0zrsb64lnw40dc9pdmhj93wpal11ps2z"
@@ -4225,7 +4237,7 @@
   },
   {
     "path": "net/java/jvnet-parent/1/jvnet-parent-1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b55a1b046dbe82acdee8edde7476eebcba1e57d8",
       "sha256": "1gv37n9aid7fdhwd0h4py024w8by56cchg3b4sg5vrk82a0l0518"
@@ -4233,7 +4245,7 @@
   },
   {
     "path": "net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ea3cd0a93e4e8adc1cdadd544c9168bc5aa985a8",
       "sha256": "14lh0wb5jml18h2w45z0nibpa6xxkx6a4z9b9kq9hisbnbcf5xvs"
@@ -4245,7 +4257,7 @@
   },
   {
     "path": "net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8efa75f9cdc57687076b2125b1a098e6f42e737d",
       "sha256": "11d66hzaang99y3wkrqxzn2y2qgsg34jf3dvk5i9664m9rpn1kii"
@@ -4257,7 +4269,7 @@
   },
   {
     "path": "org/antlr/antlr4-master/4.5.3/antlr4-master-4.5.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c7e4123f86c15b492adba2fc5377949c4ea43946",
       "sha256": "195jkdpq6v34aa1wd3hznlvzcch3x8s89wfgnvlrkm8awzapf620"
@@ -4265,7 +4277,7 @@
   },
   {
     "path": "org/antlr/antlr4/4.5.3/antlr4-4.5.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9ecf07c69a057cb13cea8a153d242007f5cc8003",
       "sha256": "11334fj7p4yxfvqincdpn1fp4hp7vzqjrqaplxv2k9ysxqr4nkla"
@@ -4277,7 +4289,7 @@
   },
   {
     "path": "org/apache/ant/ant-antlr/1.10.9/ant-antlr-1.10.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a1f8e85464950eb98164c1170952505892eaf8e0",
       "sha256": "0yp5rlblj810m0fdw1jd0lfgi2fbal6rf5dk871xndya30hggvji"
@@ -4289,7 +4301,7 @@
   },
   {
     "path": "org/apache/ant/ant-junit/1.10.9/ant-junit-1.10.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9a25dc3e7181ecbf2c64ea2fd4f71f3df3a71696",
       "sha256": "0kkay29ab47h1ak2lp8hrxbanszni11d4nbv8bby9z9rk94d9hj6"
@@ -4301,7 +4313,7 @@
   },
   {
     "path": "org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ee54316513c799d956d7ac7dd4e82ed82fe8cfad",
       "sha256": "1nr50br0r1grfrzj6hy8piqki1crdb0l3rzxykqh0cvwv6bpqnic"
@@ -4313,7 +4325,7 @@
   },
   {
     "path": "org/apache/ant/ant-launcher/1.10.9/ant-launcher-1.10.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "19fc4af88aaf7a7910a94871ca75e5afe6ed3d85",
       "sha256": "0nzavginkqvvalkgy4admk0rcj2xnqg9s1wwnh6nrnv1x9pyak8j"
@@ -4325,7 +4337,7 @@
   },
   {
     "path": "org/apache/ant/ant-parent/1.10.3/ant-parent-1.10.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a5d6883e7ff476c9ee90f6accfe5e1827c11005f",
       "sha256": "0am1h930mfljvlfx4qvnd84s9cw3bjl1vib8f7c3a8i3kmn8sgnn"
@@ -4333,7 +4345,7 @@
   },
   {
     "path": "org/apache/ant/ant-parent/1.10.9/ant-parent-1.10.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "fc88b05848614d3f954d18b31ba306207586bd78",
       "sha256": "15hb8pl7nqz4cyzn0ic4k51c03lq20nif4df85qfjd2414769m6a"
@@ -4341,7 +4353,7 @@
   },
   {
     "path": "org/apache/ant/ant/1.10.3/ant-1.10.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b01bd90f6458ad3ee15ac68e8b42850e2c4e1b45",
       "sha256": "158d7610ig1d95hdcwlkk9rzlxqjf2sb7z3g7lmddhdgqi0ympb5"
@@ -4353,7 +4365,7 @@
   },
   {
     "path": "org/apache/ant/ant/1.10.9/ant-1.10.9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1b7290dfbc114e4f5cc6a6199e77d575324c413c",
       "sha256": "1qbrzfbjzxcmkp5g2fncbx077jip68rph9xnnyvhfakgrwbn09xn"
@@ -4365,7 +4377,7 @@
   },
   {
     "path": "org/apache/apache/9/apache-9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "de55d73a30c7521f3d55e8141d360ffbdfd88caa",
       "sha256": "1p8qrz7swd6ylwfiv6x4kr3gip6sy2vca8xwydlxm3kwah5fcij9"
@@ -4373,7 +4385,7 @@
   },
   {
     "path": "org/apache/apache/13/apache-13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "15aff1faaec4963617f07dbe8e603f0adabc3a12",
       "sha256": "07c4yg52q1qiz2b982pcsiwf9ahmpil4jy7lpqvi5m0z6sq3slgz"
@@ -4381,7 +4393,7 @@
   },
   {
     "path": "org/apache/apache/15/apache-15",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "95c70374817194cabfeec410fe70c3a6b832bafe",
       "sha256": "156lk89x31r2d6ljpwl1lvrl0sxgkd70wj6bq18b8rxcg7wz5hin"
@@ -4389,7 +4401,7 @@
   },
   {
     "path": "org/apache/apache/18/apache-18",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "bd408bbea3840f2c7f914b29403e39a90f84fd5f",
       "sha256": "05rwyflfsi1dhl7r7mdiacqirwc2g27f62mj6sy5nizxhmr30cbq"
@@ -4397,15 +4409,23 @@
   },
   {
     "path": "org/apache/apache/21/apache-21",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "649b700a1b2b4a1d87e7ae8e3f47bfe101b2a4a5",
       "sha256": "105k6wsi9n95lfbsz8jz4qc1qfjs9cmjpdf7zb51fkq1v84c245g"
     }
   },
   {
+    "path": "org/apache/apache/23/apache-23",
+    "host": "https://repo.maven.apache.org/maven2",
+    "pom": {
+      "sha1": "0404949e96725e63a10a6d8f9d9b521948d170d5",
+      "sha256": "07298c2jfkdb6gaxidig2pnl0ckdjfi9qqy5z9vnbwr30r76445w"
+    }
+  },
+  {
     "path": "org/apache/commons/commons-compress/1.20/commons-compress-1.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a63d6a48347a2848f6a798c9efad976829011f7c",
       "sha256": "1mwi8vqfsih1bypsl71wkyz5ksymz9g69yfgnryprcanmziphmnr"
@@ -4417,7 +4437,7 @@
   },
   {
     "path": "org/apache/commons/commons-parent/25/commons-parent-25",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "67b84199ca4acf0d8fbc5256d90b80f746737e94",
       "sha256": "1flhjyg2b14ch0wvsbimqli7vmpxim8yg54h6xkni1rf8i8fcyj6"
@@ -4425,7 +4445,7 @@
   },
   {
     "path": "org/apache/commons/commons-parent/34/commons-parent-34",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1f6be162a806d8343e3cd238dd728558532473a5",
       "sha256": "175p0hnjk93gmgh8fv63z0xmd9jf5sgdq9ii54xiy7b4dp86jbis"
@@ -4433,7 +4453,7 @@
   },
   {
     "path": "org/apache/commons/commons-parent/35/commons-parent-35",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d88c24ebb385e5404f34573f24362b17434e3f33",
       "sha256": "16p48k5ly6yli1wlzb5qcipwd0lzhsnbrjr1vk4x9v1nhfms363h"
@@ -4441,15 +4461,23 @@
   },
   {
     "path": "org/apache/commons/commons-parent/48/commons-parent-48",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1cdeb626cf4f0cec0f171ec838a69922efc6ef95",
       "sha256": "1d50giiw014yyyq5i5bzykip9gi22k6xmw98y40pjyqa6zlps7qy"
     }
   },
   {
+    "path": "org/apache/commons/commons-parent/52/commons-parent-52",
+    "host": "https://repo.maven.apache.org/maven2",
+    "pom": {
+      "sha1": "004ee86dedc66d0010ccdc29e5a4ce014c057854",
+      "sha256": "0bjhnkdhdsdcc12daiqhbwxwvjxlkqplmbns8bzw7r4q9vryinvm"
+    }
+  },
+  {
     "path": "org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "db40edda8b95d880d2a810560fd5e46eb4fa6909",
       "sha256": "0mc81c7jmhrdjvr8az8x0q3wmlzb24nj8czxickbnzrywx0i5z3y"
@@ -4461,7 +4489,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e5b134e5cd3e28dc431ca5397e9b53d28d1cfa74",
       "sha256": "0v3yzl9za0aqyixq2pwxq9fa8hb84d4lzp3ss1iwv7wjfkd9msvq"
@@ -4473,7 +4501,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcomponents-client/4.5.6/httpcomponents-client-4.5.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "135a0a91d1ad2909b08196580ef2c363932bb87e",
       "sha256": "0wqzzv4hbfgps1ccwinjq543c4njmq4ybx7p6l6v1vci4cgv8hmh"
@@ -4481,7 +4509,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "61045e5bac5f6b0a7e3301053de0d78fc92f09db",
       "sha256": "1nadil2zd0nzspkla2wihfaycfdv4bb4b60fqb872wnv1165kflw"
@@ -4489,7 +4517,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcomponents-core/4.4.10/httpcomponents-core-4.4.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "43dd1af3c408840fa4d19679da7db9c8dec9f7fa",
       "sha256": "0diidhvqz9cjm65zq14v7iqi8fybs4lahszilw3w69p39dyl5sb1"
@@ -4497,7 +4525,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcomponents-core/4.4.14/httpcomponents-core-4.4.14",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "6dede7e95d51c365a10c346b010797c2656edc65",
       "sha256": "1lds3j5my5iij5kjj8v42c365nisq2lwl9z0vx9856aprcqxk7i0"
@@ -4505,7 +4533,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcomponents-parent/10/httpcomponents-parent-10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1ba3c5940f24525444492ae12b6a1015df8a477b",
       "sha256": "1yirbnv75fnf5j9rdxazh941zg86c84cd0k0yd9igcmgjiyrdbya"
@@ -4513,7 +4541,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3ee7a841cc49326e8681089ea7ad6a3b81b88581",
       "sha256": "1ank6bjz9w9b56p4695g60nv1rr07vvgygp4gq60fmaw25xzh0d9"
@@ -4521,7 +4549,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "cbbf1989463d9f3e284c1348e50ea8bf426e4e1c",
       "sha256": "0arrxaxfp68qxag15rbnx4kid9m93sw051ickal8hfrbvxk21hf5"
@@ -4533,7 +4561,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "16db7143a7586192ac1d863c7ecfaf25541bbc47",
       "sha256": "1n3zdgxwa7nqx85fvih715zsy3aqq3pqlp72z41h5wbqm6c66wam"
@@ -4545,7 +4573,7 @@
   },
   {
     "path": "org/apache/httpcomponents/httpmime/4.5.6/httpmime-4.5.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b9dcad423fba1978379049cf0cf3cf535c667af7",
       "sha256": "1jm8iafv182mdyfy7g85p0h86mwagym6aqy42yccm157wbzxdgyz"
@@ -4557,7 +4585,7 @@
   },
   {
     "path": "org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "41f951c2aff248588037007e8f915467b9971a6f",
       "sha256": "0497hss6262ckzx0kxfrb7pp1h1yqicyci0qf4n7pdyrbk5vjid9"
@@ -4569,7 +4597,7 @@
   },
   {
     "path": "org/bouncycastle/bcmail-jdk15on/1.64/bcmail-jdk15on-1.64",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e2f2e5f58bf5f53cc7ae94dd78a45238c986790f",
       "sha256": "1lm4v9v3ivjjm63rmsz4akxkpx3dqivjx4n00i91l0y00cgx8ja7"
@@ -4581,7 +4609,7 @@
   },
   {
     "path": "org/bouncycastle/bcpkix-jdk15on/1.56/bcpkix-jdk15on-1.56",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2e2e47a19e0c53e7d204a6ad071c9e64c7c4c43f",
       "sha256": "0n82rzpyr0p0vvnkppma904zdfgby5wwfwycp4718wsa8zy6h5ij"
@@ -4593,7 +4621,7 @@
   },
   {
     "path": "org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f1cb86bea049126e80cbfa84b3ab7c483601aaad",
       "sha256": "0sk4xn7ls5x9kh5xiig09ncb4dabmcgdr7mgwk98q9z48g3ka0im"
@@ -4605,7 +4633,7 @@
   },
   {
     "path": "org/bouncycastle/bcprov-jdk15on/1.56/bcprov-jdk15on-1.56",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "16220ab4e1b41786b0396e908ed91437c620ee3c",
       "sha256": "0vjw9dx654i469fb87jdjp08sy3xvs3qpi597ccp665hwwv37p4g"
@@ -4617,7 +4645,7 @@
   },
   {
     "path": "org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "513f78dc2971d73eec9716788948ec02704899aa",
       "sha256": "0ycs841sp4dh1n0fp8z031hjwrwy61pjfvmxk5bwc72cv5wjz1c7"
@@ -4629,7 +4657,7 @@
   },
   {
     "path": "org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "493796785b3c508c4c25e539321218511bd1c1ae",
       "sha256": "1gjk0dp0v6q399rpay03cjkmsfj08nrj5j5gwng09gl3j6yixwj2"
@@ -4641,7 +4669,7 @@
   },
   {
     "path": "org/checkerframework/checker-qual/2.5.8/checker-qual-2.5.8",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5eb0c9262e891ee4dfa3410b9be611e47c79779f",
       "sha256": "0g1cxyswhvxfrvicwyv9sabzw91xmbs6ai3xgij9dbj12c7nmb1k"
@@ -4653,7 +4681,7 @@
   },
   {
     "path": "org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "408a4451ff5bdef60400a49657867db100ea0f83",
       "sha256": "08apndxq787glqdn6r0734nizck7qw7yd4imh2hk3nwflywb6di8"
@@ -4665,7 +4693,7 @@
   },
   {
     "path": "org/checkerframework/checker-qual/3.18.0/checker-qual-3.18.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ebf9e21b69f9e3b4e2596475f8d4cba93cd7b55d",
       "sha256": "0idx3iyyazyij9mgwk87znwiygrmzlryfcprd8jsshwbji85pq32"
@@ -4677,7 +4705,7 @@
   },
   {
     "path": "org/codehaus/codehaus-parent/4/codehaus-parent-4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8b133202d50bec1e59bddc9392cb44d1fe5facc8",
       "sha256": "1pqlw2ilzagcl5ahq9dv60cxw59yrvrwf9q6z0679qf2x1yj71vb"
@@ -4685,7 +4713,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-all/3.0.7/groovy-all-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b2b0166b4281b497fd77c8683e122f79927aac76",
       "sha256": "17i4cz350rb979c2yn42zpm67y9ayjvdj7kfma8c051m1j080zv7"
@@ -4693,7 +4721,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-ant/3.0.7/groovy-ant-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5963eba37c4da9b6ec6fec062b38cc344c4081c7",
       "sha256": "1m9ipxxfp8gf7mbb401adybgf0rij1b4nfi5piab0sljf6jxvw5s"
@@ -4705,7 +4733,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-astbuilder/3.0.7/groovy-astbuilder-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "da21bf92647a8f88d5e44e26f2c77141daf76abb",
       "sha256": "19sw68yzz4m07r22i025b7lpchi83f2vfpih7c833ic5cdah25jq"
@@ -4717,7 +4745,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-cli-picocli/3.0.7/groovy-cli-picocli-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f1b9bc99be3026f563623d1edd4ce77626d1c3c7",
       "sha256": "116bzk8ajh7lipg1hyrgd1rgv71jsx8760xn2qhxifzpwpwm2d7l"
@@ -4729,7 +4757,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-console/3.0.7/groovy-console-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8261c917287c2efc15f7e7fb75418315b421adee",
       "sha256": "080v9ypq0m1d8pm30hxqim0509zhqgdkhn1aik94isin42qa820s"
@@ -4741,7 +4769,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-datetime/3.0.7/groovy-datetime-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c7d3a9b8569de1024dfd9ef26729ef57c2e86b6c",
       "sha256": "1jwim28pb7pbp5wnhbq7qapddkq602pvs5fvgs1flkivii9bfsw7"
@@ -4753,7 +4781,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-docgenerator/3.0.7/groovy-docgenerator-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "71c7a0b07422b8ce4cd4c6daab3ab678ff4a464f",
       "sha256": "1hnzv39z7d8cnhh3jjqnhjdaiaa3s5555wsp41xa96mj56vvh37n"
@@ -4765,7 +4793,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-groovydoc/3.0.7/groovy-groovydoc-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ce3a9989f49a53bbadc3f41c7fc9f0a390780a06",
       "sha256": "1askwj8yfydxfxcn4x8j47jh27mh56s4i6jik5xnwl17gfl2gxqd"
@@ -4777,7 +4805,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-groovysh/3.0.7/groovy-groovysh-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c33d32863ee5ff7764fc26228120a5db436a59cb",
       "sha256": "0q47a044w0fp25njv6nqvdw74ckvn6wk4mw923fd4ggxv163ivpm"
@@ -4789,7 +4817,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-jmx/3.0.7/groovy-jmx-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "13b59f6dfaf50b0d76aad0c86ecfed2b998a85d9",
       "sha256": "1s48p74ig6vdw7znh9jwx60pfhfk0ffdb330ah1253929ly1lqms"
@@ -4801,7 +4829,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-json/3.0.7/groovy-json-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "61ee1ae598e0df8d5b570fa4475b6369cefd99dd",
       "sha256": "1h42jbbzw3iw14yhjq6k6n4w91543sm1ji4fh7i595nc913dypxp"
@@ -4813,7 +4841,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-jsr223/3.0.7/groovy-jsr223-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f78d043d195cbad9a1de90705befdac5f06bb8db",
       "sha256": "1fcj7jha8xj2dymjc82hrs94gqbw5x7ygx9dciv53z9n1hcfrnar"
@@ -4825,7 +4853,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-macro/3.0.7/groovy-macro-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b3b51baa1ba1634014c4cf37d586c5621eb98d46",
       "sha256": "1zrr4xsiix1xrk5sh7zclnpl75z8cd14xvdk2k6j63pk89cqmxsl"
@@ -4837,7 +4865,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-nio/3.0.7/groovy-nio-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "530f83b7275584347dcf9da2d87da30038a1e43e",
       "sha256": "1nincvkw4pz0dwp1r3ghdfhlkwwkj2lx9wlnrnz0am7jkqvavnrr"
@@ -4849,7 +4877,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-servlet/3.0.7/groovy-servlet-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c411483d117498c8bd699068df6b81ecea297d47",
       "sha256": "136ylg9jd799k4knlzaih5x17b76cx5g6gj7dxfli25lsx6bf7l9"
@@ -4861,7 +4889,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-sql/3.0.7/groovy-sql-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "edad48c7fe740ae8088e0d2cacc513cba4d98886",
       "sha256": "06z2rdl839666gx5ms46480x9q630skmbzmndq381r7d1i4bc92l"
@@ -4873,7 +4901,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-swing/3.0.7/groovy-swing-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8de9f90c0a9f854222f2d9250df1d8422a8863b8",
       "sha256": "0d4rs9gv4q46a7h7hmzv8fk481qjq3a0m44dwc38m2khm3a9afm6"
@@ -4885,7 +4913,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-templates/3.0.7/groovy-templates-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3b86908dac3a074ec147c79699d84b8e8ea25840",
       "sha256": "0a7hq04hg1xfnzmrwgyziw6cdhk68lmkl64jlsgph5j3kmr6mbq8"
@@ -4897,7 +4925,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-testng/3.0.7/groovy-testng-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "41f0f91b3c91cab64b872e18b7fa9e3f08f2f77a",
       "sha256": "0fz0ixxsyfvqw9ymv22a4xkwvfcydj1i9l3spjbp9jmjhybrhq4d"
@@ -4909,7 +4937,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-test-junit5/3.0.7/groovy-test-junit5-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "675f4416e043e10d2112f254ba612d0015950794",
       "sha256": "13j04q5kfrbmajph9r2c9di9gik5l334swicjba8k9pnvxqxdnhz"
@@ -4921,7 +4949,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-test/3.0.7/groovy-test-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a4347bc80a3eb31a904e606b96fd8d86a676a5a3",
       "sha256": "1w7w0vdjzwikqs3w7xc8lr5nh26mndc8g13dqkmdsdrpb16hlw74"
@@ -4933,7 +4961,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy-xml/3.0.7/groovy-xml-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5e296529dde35b1a717ff0fcc84bfef1e138a7f1",
       "sha256": "0l16x54jm5k3rwskbrdrls1j9dxvrwab9nnrm6ny23m207pxchis"
@@ -4945,7 +4973,7 @@
   },
   {
     "path": "org/codehaus/groovy/groovy/3.0.7/groovy-3.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d6eacedc693c6499b03a5ee401abeaa1a86ffab9",
       "sha256": "0k9dg8www84736ric4qv8kqdf06bibmr7syaklr7v63wd46r0pvh"
@@ -4957,7 +4985,7 @@
   },
   {
     "path": "org/codehaus/mojo/animal-sniffer-annotations/1.17/animal-sniffer-annotations-1.17",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "80948bd07c5db60753d8d5a9164b8b2272e0842a",
       "sha256": "1rfbfsnn0kfb4f60dhmb84m4lk99sg90q39h2apap3xl5rfsnmp9"
@@ -4969,7 +4997,7 @@
   },
   {
     "path": "org/codehaus/mojo/animal-sniffer-annotations/1.20/animal-sniffer-annotations-1.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4daa545f375cc4e539a97425fb75aa52f856d5e4",
       "sha256": "149f92fjjr21y0hv0sxfwaayl3dwgm8sadi472i6dchvpaj6wdz6"
@@ -4981,7 +5009,7 @@
   },
   {
     "path": "org/codehaus/mojo/animal-sniffer-parent/1.17/animal-sniffer-parent-1.17",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "eea4b805793494ebb025e5a9926ea3cf1ee8b34d",
       "sha256": "07xq13f36afp6asw313s08a7gyqm7iijbcdp5mc4q61advqkv80q"
@@ -4989,7 +5017,7 @@
   },
   {
     "path": "org/codehaus/mojo/animal-sniffer-parent/1.20/animal-sniffer-parent-1.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a1725fa054a1b943fa3a8e7ee72f1b57b507488d",
       "sha256": "1bqwv253zjjgm0fdm3hinqmbmvgj8vpwh650cvfrvcg6mdsfd4y4"
@@ -4997,7 +5025,7 @@
   },
   {
     "path": "org/codehaus/mojo/mojo-parent/40/mojo-parent-40",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d2fa7c95447827e9bbcb8c60bd9484c51202732e",
       "sha256": "0pkmrd1m1s7s2jhvw9qj40c6c5w0z7n18faqw1kbzy04qk6qsr7w"
@@ -5005,7 +5033,7 @@
   },
   {
     "path": "org/codehaus/mojo/mojo-parent/61/mojo-parent-61",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "11fdf4908dbf89fc128efc868ad990ad0a0a8b8a",
       "sha256": "1bh5g5nzl8624prasq9r4r8i3r7cw7b7bwa9g7342rghbjsl4cvm"
@@ -5013,7 +5041,7 @@
   },
   {
     "path": "org/conscrypt/conscrypt-android/2.5.2/conscrypt-android-2.5.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "aa5c2644142f7c521ae7fd98945ad09ee13f10c2",
       "sha256": "096iirv2zshhsjzxfgqbssypvqxqv7bw3bb5ybzhymbqzc9pzpxz"
@@ -5025,7 +5053,7 @@
   },
   {
     "path": "org/easymock/easymockclassextension/3.2/easymockclassextension-3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7a11e8397359652228c0d359de72f8238dafd758",
       "sha256": "0h20y0nrzhwawd01p74mvgawms7cr8k0j1knd631a7hj0kkh4qna"
@@ -5037,7 +5065,7 @@
   },
   {
     "path": "org/easymock/easymock-parent/3.2/easymock-parent-3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1d130e585b385841b0ac06f546e0fcd859074620",
       "sha256": "13mkvvs81ma80djyn8ikpq3652i5dbj56x38avqxb9gbr7hgfbx6"
@@ -5045,7 +5073,7 @@
   },
   {
     "path": "org/easymock/easymock-parent/4.3/easymock-parent-4.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "efbf2d2d75a77ae5f4c88faf83e492f962341700",
       "sha256": "0jgk3vj299dgw4qiaqh86nfzidnfgxpz577pg962mkv04wp212c3"
@@ -5053,7 +5081,7 @@
   },
   {
     "path": "org/easymock/easymock/4.3/easymock-4.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a392122f9847ec2d4ae7ce79064b9db5741c44b7",
       "sha256": "0vifpca8nkibc0qdk807a4y5v4myml8nbfdjwwdqrx5s25hhw7jh"
@@ -5065,7 +5093,7 @@
   },
   {
     "path": "org/eclipse/ee4j/project/1.0.2/project-1.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5730bedee1faaeeb62b0afc4ed1c4571f87a8eb4",
       "sha256": "0gw7vhfh7n1j9s7a27r969gca7wbplhp9a617cyf923yg5xa15bl"
@@ -5073,7 +5101,7 @@
   },
   {
     "path": "org/eclipse/ee4j/project/1.0.5/project-1.0.5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d391c5ed15d8fb1dadba9c5d1017006d56c50332",
       "sha256": "19liqnibba9nms0qp22y74iynjkrpr6sdxpxldchl8nqv2a4fswi"
@@ -5081,7 +5109,7 @@
   },
   {
     "path": "org/eclipse/ee4j/project/1.0.6/project-1.0.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9adda6d67ddf76eb9ed4e1c331d705d03dc2a94b",
       "sha256": "0bfpr1xnf1xr9siabx9ji482fpqlpr0l50lxfwqcyzfsv0lq6zaf"
@@ -5089,7 +5117,7 @@
   },
   {
     "path": "org/eclipse/ee4j/project/1.0.7/project-1.0.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b0f6c4bc691a0b694a377edc9bc4777871647253",
       "sha256": "01gi321g5j0d4s2byxdxa2awz8xk7r44mc5yxxb3bbnb8ad06p10"
@@ -5097,7 +5125,7 @@
   },
   {
     "path": "org/glassfish/jaxb/jaxb-bom/2.3.2/jaxb-bom-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c7cd28b5d3871feba8cebf6d4587043fb0d6fd0a",
       "sha256": "1rvbyrssdijxyzsxpsgl04153zw5wf240yigrdd9zvbq8ssqn0d1"
@@ -5105,7 +5133,7 @@
   },
   {
     "path": "org/glassfish/jaxb/jaxb-bom/3.0.2/jaxb-bom-3.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1ff4084c4508c271cc7590f8947a71bf195c840b",
       "sha256": "00spkl5lb7q7q7z1gahdr52gl0bmq16bnn6dv46ysjybz0r16ah6"
@@ -5113,7 +5141,7 @@
   },
   {
     "path": "org/glassfish/jaxb/jaxb-runtime/2.3.2/jaxb-runtime-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f46a0f023205138c366f0b0c9316f8663bb32a4f",
       "sha256": "0d4bahk4r54fqqgl01d10a92n21yr3444kxyvy1n12m6gynsaj4l"
@@ -5125,7 +5153,7 @@
   },
   {
     "path": "org/glassfish/jaxb/txw2/2.3.2/txw2-2.3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "22d24b523eb02a955e8bfa7af6572207a3490482",
       "sha256": "1sikzlbx1gs4imyp2r0fgsw07hb85sz3a9ka53zq7083zc1d17d7"
@@ -5137,7 +5165,7 @@
   },
   {
     "path": "org/glassfish/jaxb/txw2/3.0.2/txw2-3.0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "bb398c03ac69274e050cb81b96a6621f5192e7cc",
       "sha256": "1fbq7r12kiyz22zb403mhhzsami5sb0c7r1pp96xcvq7qcmai7v9"
@@ -5149,7 +5177,7 @@
   },
   {
     "path": "org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "872e413497b906e7c9fa85ccc96046c5d1ef7ece",
       "sha256": "14zs9yk20z3qjwkjwa1j1q6vb13mf8hbhsny0fqs2wsij2kqdqzx"
@@ -5161,7 +5189,7 @@
   },
   {
     "path": "org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "399ab31a6a84f36c84a9f50b9ba82fd890436391",
       "sha256": "1pg7ikzwdrw9bxv51gf2vl1a4b8wj45q2a4ylg1my6hhypzy5zgp"
@@ -5173,7 +5201,7 @@
   },
   {
     "path": "org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "80391bd32bfa4837a15215d5e9f07c60555c379a",
       "sha256": "16qjwhdvq13mcylsfav41606i52k6d87mwn9havbsqxnxya5ylvd"
@@ -5181,7 +5209,7 @@
   },
   {
     "path": "org/hamcrest/hamcrest/2.2/hamcrest-2.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "98624f676c4d263b568816b0af5d4f552a2d0501",
       "sha256": "0zd55y0r76i04rfsnrm93ana54dnqldjlzikvivcygsbdhvkfqdk"
@@ -5193,7 +5221,7 @@
   },
   {
     "path": "org/hsluv/hsluv/0.2/hsluv-0.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e359d046de4437f3c3c3d2bde8715f060f80ead0",
       "sha256": "1q34m5di1xq4irbhrfyfzlxizppvr2x9ms3lw6q4gmrx95w0vwjr"
@@ -5205,7 +5233,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.agent/0.8.3/org.jacoco.agent-0.8.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ff16b6386d1198793d069d4a46be1fef8b6bda9a",
       "sha256": "11pfjr8j10cr6aaqi42djqji6ywcnc80wbff9d7xvglhxrgn3l6p"
@@ -5217,7 +5245,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.agent/0.8.7/org.jacoco.agent-0.8.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ea782b5dd63854e0691c3e62a450af8474a907f9",
       "sha256": "0bvjaw1rjkzanfgmg263x54bfl4yw1dpgc9il8ww4srsvz9cvcp7"
@@ -5229,7 +5257,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.ant/0.8.3/org.jacoco.ant-0.8.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "330c712fc7cdf4a63e834c7fcc9102153cba8626",
       "sha256": "1w1a5h2y3j7v8sab4h54dd0ax3widpjrmpwwqjf8ylwn54f10gkb"
@@ -5241,7 +5269,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.build/0.8.3/org.jacoco.build-0.8.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "94f85e20d4a06d63f2393c784dbab8dac7bc4f89",
       "sha256": "0acsyx14227mdrp7cwbhjb0lifjvn1m6mcb2i9g9m1b47v3x1fkm"
@@ -5249,7 +5277,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.build/0.8.7/org.jacoco.build-0.8.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "492fd345ea752983327442fe383590995e40a7aa",
       "sha256": "10xpy6zcpbmmg4dn9hbhlh7xi0zbfnmsfzb4nylq65hfjc3q2h43"
@@ -5257,7 +5285,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.core/0.8.3/org.jacoco.core-0.8.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ad4f277df280fd405f11af4736eb5c310e082bc1",
       "sha256": "1l0l0bi7xl1bcs92nb2ba544syhy7ljfgy79y2y490cq2y1p7d8q"
@@ -5269,7 +5297,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.core/0.8.7/org.jacoco.core-0.8.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a26a78c73750f93915a98daac900c5e7a37e4494",
       "sha256": "09bqhrgnwlv8gxszfq7xjcv1ip9vl6x67pkgcjpp2q6dv18wfck8"
@@ -5281,7 +5309,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.report/0.8.3/org.jacoco.report-0.8.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "dd738c39a41e55a1d8ef038341dc3aaa51c5e99a",
       "sha256": "1y605xplj5qykpvmxrn5yhc9207yr1479na9hvmzn4lqrg8676q4"
@@ -5293,7 +5321,7 @@
   },
   {
     "path": "org/jacoco/org.jacoco.report/0.8.7/org.jacoco.report-0.8.7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e54f4220d1b60811466439dbc463dfa126048d1c",
       "sha256": "1fn4a0llk65wdarc0y4v7rwqhybajafq5yif4ni93mqx7jgc3frg"
@@ -5305,7 +5333,7 @@
   },
   {
     "path": "org/jdom/jdom2/2.0.6/jdom2-2.0.6",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "11e250d112bc9f2a0e1a595a5f6ecd2802af2691",
       "sha256": "13axlsl2zmqzj885rrq5wib545k8kl26wk23h8dp8srkzrwkmcj7"
@@ -5317,7 +5345,7 @@
   },
   {
     "path": "org/jetbrains/annotations/13.0/annotations-13.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "fa7d3d07cc80547e2d15bf4839d3267c637c642f",
       "sha256": "15y3p0xicxjx6y38pj39vm3q56xqnfhgf6yyplcrhdpzxlmynnln"
@@ -5329,7 +5357,7 @@
   },
   {
     "path": "org/jetbrains/intellij/deps/trove4j/1.0.20181211/trove4j-1.0.20181211",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ad9cb821b804f05ed013ce89e3ec4d32d101bd79",
       "sha256": "16h11jpakvz58wl3x8pwrmfyknhfrncgrwa6iwmw6d05v6i6l2ii"
@@ -5341,7 +5369,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-reflect/1.4.32/kotlin-reflect-1.4.32",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "cd7bbe9e8aea8d8f0471373205de8a0871e949db",
       "sha256": "0m0fk9ba398a2wxym94n5005rir1wbqba88z6kdw8s356a50p7ch"
@@ -5353,7 +5381,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-common/1.3.60/kotlin-stdlib-common-1.3.60",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9b0f75dca0716e00e80f77eca0d912434b818aa9",
       "sha256": "1nhl6fpavfncgmzhhvmp9kbf1wf6lcvhip6in46zsyn621d90cr5"
@@ -5365,7 +5393,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-common/1.4.0/kotlin-stdlib-common-1.4.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "03055a223c66d74a15ae3f53870e910e769483ff",
       "sha256": "02mx38iv2y3afvmv7bgmqrzsfgz5bm484ryf264gaj1jb929mrcq"
@@ -5377,7 +5405,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a7a2da276e4c795619d6dd862cf8db356906ca3c",
       "sha256": "002xa53xg74zhfsgh6p17xzs6k2lbzj91zx694mp9pnllxr0wj33"
@@ -5389,7 +5417,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-common/1.4.32/kotlin-stdlib-common-1.4.32",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "dedd0518589a9a4745559ec1b67ada106915329d",
       "sha256": "10s4gwhn9hb2y0qf7wkggrmbg6v0qkhm0z539p0jylw2hc1q7xif"
@@ -5401,7 +5429,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-common/1.5.20/kotlin-stdlib-common-1.5.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ff9efa52b84c931eae3642ff77c9a280685f328e",
       "sha256": "1rjvmadqfwijz06a0ps1kcv0k24kw1kwcqf69lwq2hyszr0div28"
@@ -5413,7 +5441,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-common/1.5.30/kotlin-stdlib-common-1.5.30",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "850c3ca345e0afacbfaf203f5259e3e1be59df9e",
       "sha256": "1g74j6k1lbnljsy2dif47mmc3hrwqch6j6zi1mdp4mh11r812w6d"
@@ -5425,7 +5453,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.4.32/kotlin-stdlib-jdk7-1.4.32",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "23da429ef5dd4678d03377405822680e2da84246",
       "sha256": "1fza7hriqz32lddm46w4qrq4109jqyzi9i33i2p8grxpv2d3fk06"
@@ -5437,7 +5465,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.20/kotlin-stdlib-jdk7-1.5.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b87c15b4c11bb991b6b11b1cf3610511cd132d87",
       "sha256": "03bbw19ndjafma09lzqzfhffywmb1ga36q4ryi1zzqcq8z0bf7q8"
@@ -5449,7 +5477,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.30/kotlin-stdlib-jdk7-1.5.30",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "efbcacb7449201f5df0375ceb38d2a603bd5af6b",
       "sha256": "0xxc7cnf8i4a38k08cg3xkgxcj81sw86dj8jzcvi5r9pz4hcybmd"
@@ -5461,7 +5489,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.4.32/kotlin-stdlib-jdk8-1.4.32",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5a3eef93e614c6f3f13b323563593b5bb577071d",
       "sha256": "1nrzw9nz6fjap89xwjzygpijf9f84y9zni8n6jgw4yqfvhzf4lp5"
@@ -5473,7 +5501,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.20/kotlin-stdlib-jdk8-1.5.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e429fcf535ac1072110da79655b09c41e84ec54d",
       "sha256": "0zs7kr8hl5b8p8bpx2z711blw4k577w5ggrf3l1nk0kk8k9mhs2r"
@@ -5485,7 +5513,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.30/kotlin-stdlib-jdk8-1.5.30",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a95e23c8f40c3220953b05956eb96e959a85ca6a",
       "sha256": "0vfi4rbadnrgsz6skz6z6j3jnb9abybg47fvhhzr3b299nrfa921"
@@ -5497,7 +5525,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib/1.3.60/kotlin-stdlib-1.3.60",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "73924ccc41144c8ddd80b19e4acbc850f1afd7a5",
       "sha256": "1pj30ih52867dpa6r04xghpg5jdyshjrbxppxbvwzxsid8dgldz7"
@@ -5509,7 +5537,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib/1.4.0/kotlin-stdlib-1.4.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "4758d9ec733fd494e6e67fe493d6ac60cd30659d",
       "sha256": "0jkdpk6qkhf8jwqp6jrwwqnr39p8z56kmnyg6dg03f92qjppvdix"
@@ -5521,7 +5549,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1ae8d0e617a4e272ce07664ad928c57b171e31f9",
       "sha256": "0qi77kk5dssssijv0j4fav5zgh5rbxvjrm943spj79dx9fxwzfd4"
@@ -5533,7 +5561,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib/1.4.32/kotlin-stdlib-1.4.32",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5dda24ec00298aed19523dead8e06bef2f0fd003",
       "sha256": "09qrwvvhdv15aryijfmv5yqry61zb2fb1nz4nfmfc9avc73mpg69"
@@ -5545,7 +5573,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib/1.5.20/kotlin-stdlib-1.5.20",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "dbfd9bfb8048d59c62978d600dba7187491c5730",
       "sha256": "0vlir0h87b2vnn2n9s379hvbnkdji778gh2czdqsi47zar7nfxnn"
@@ -5557,7 +5585,7 @@
   },
   {
     "path": "org/jetbrains/kotlin/kotlin-stdlib/1.5.30/kotlin-stdlib-1.5.30",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d4e1f037717ed2c78f8e5982c5dbc33daab87521",
       "sha256": "06sdi49yx5xv2wn90y3zy7irwjq3ny4vxdnynq1dvx9sn8fn4yrn"
@@ -5569,7 +5597,7 @@
   },
   {
     "path": "org/json/json/20180813/json-20180813",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "218ad36b491e585397587a361b0a6d5c973eba53",
       "sha256": "1xa91fs5pj66935xv157gwh1w5xrkm42pdhsr07xmv7l1g2n1rn7"
@@ -5581,7 +5609,7 @@
   },
   {
     "path": "org/json/json/20210307/json-20210307",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "ad033169bfb193b62f2538cd9a63d9fbb81bbec0",
       "sha256": "1sls5m7h771pc3basij8vxs4czskwv6qjzfqjck0fmvh6rxqjyq6"
@@ -5593,7 +5621,7 @@
   },
   {
     "path": "org/junit/junit-bom/5.7.0/junit-bom-5.7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "6c667331d41729ca3c8e02d1c26ae1334a81357f",
       "sha256": "007z71vy8g0jp9hfsv6596izjlk56ri2g0r21a8bbqmys3w1byrm"
@@ -5601,7 +5629,7 @@
   },
   {
     "path": "org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "15d12352f469adfedcc872e064c4f6869a366d7c",
       "sha256": "0f31z2xm0bkjix8qm7ks2jvagi3wwzk2yk7j6llnkm682gaj7y50"
@@ -5613,7 +5641,7 @@
   },
   {
     "path": "org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a3143e4dae7337bc72a8a9cad2c08977a7aafd06",
       "sha256": "1s67y962wkhlix52wjrgk51iz5dykwlkg3xqqviiwcsxhx8f40mp"
@@ -5625,7 +5653,7 @@
   },
   {
     "path": "org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "bc3558bc8a36c88504f0f5d51ae7a8b74c92ed77",
       "sha256": "18l0qvir5iqijjyidcrsnyxl0vyh7h96zr6wq4m92ng6pvww9mqc"
@@ -5637,7 +5665,7 @@
   },
   {
     "path": "org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "5853a2638b04f98192797d3956587632849add2f",
       "sha256": "04lxvb6gbxspfnjjk2mr3zwabmi6fmd8nbnsxj6cpl9g0g2rjnr2"
@@ -5649,7 +5677,7 @@
   },
   {
     "path": "org/junit/platform/junit-platform-launcher/1.7.0/junit-platform-launcher-1.7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "aea22c6d38f9ec03814e766cb4033ec32be4c3bf",
       "sha256": "16l20d8d3yh4j4fl8qylz5zcpwc1x9wi5lcgcz0d5sm9yll5rl14"
@@ -5661,7 +5689,7 @@
   },
   {
     "path": "org/jvnet/staxex/stax-ex/1.8.1/stax-ex-1.8.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "93132b1ebaf1c419ad3d2216924af39c68f43b51",
       "sha256": "1mpfaaaa18z67rxb3n860ydacsbzk8ckhr9vi66cx9kdrqv4zj4g"
@@ -5673,7 +5701,7 @@
   },
   {
     "path": "org/jvnet/staxex/stax-ex/2.1.0-M1/stax-ex-2.1.0-M1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "a5bc59adbab79faf56d8b59bb35043b541559cc8",
       "sha256": "1glfi7nncf4x7rdq8kys3xaaq3ck3yfqs9hn7j0qgiihxd0vnws2"
@@ -5685,7 +5713,7 @@
   },
   {
     "path": "org/jxmpp/jxmpp-core/1.0.1/jxmpp-core-1.0.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "074bea588ff64643bd0087ba31a925576f35537c",
       "sha256": "0jd7ghn595kyal77jz0wvcrz6nvfvn18jmm0zw07wxps54a7cf1h"
@@ -5697,7 +5725,7 @@
   },
   {
     "path": "org/jxmpp/jxmpp-jid/1.0.1/jxmpp-jid-1.0.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "3e7c673392e6e2947f713640a16f4461046382e5",
       "sha256": "01yb61ip089rdm0i16inypg9ysjad001pm05y6g12hbzz7zcjf6v"
@@ -5709,7 +5737,7 @@
   },
   {
     "path": "org/jxmpp/jxmpp-util-cache/1.0.1/jxmpp-util-cache-1.0.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f0bc26a344bc8a297b76829b4c4889f5940f883d",
       "sha256": "1jgavmf6mgl7d40ml4jjfqaflp1c6p3gmi21i5bqzls2s7dphz62"
@@ -5721,7 +5749,7 @@
   },
   {
     "path": "org/mockito/mockito-core/3.12.4/mockito-core-3.12.4",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e159a2a2e92b2410cd76a4cde41a0d63abe82883",
       "sha256": "1zharg0wzgyrdxwzvagaq97lanavlqxsa5cr3wrpm3acqbhvh0ph"
@@ -5733,7 +5761,7 @@
   },
   {
     "path": "org/objenesis/objenesis-parent/3.2/objenesis-parent-3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "833ced74e7fd53408a3915080c5e50f2dc90dc35",
       "sha256": "1xrkvx2k9zhkzcw2d4zlryya0j5adw1jr1p5chwv3vzybh6vln88"
@@ -5741,7 +5769,7 @@
   },
   {
     "path": "org/objenesis/objenesis/3.2/objenesis-3.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d6bda29a6a26aa5207ab880a4f09870aff20e3c6",
       "sha256": "033b2sm4h4v82s7z7pp1ymqlid7nc2wmx8dq8ldp333v8zqss42f"
@@ -5753,7 +5781,7 @@
   },
   {
     "path": "org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b5c66f49b69c36797c1fb7f4ec57776f261303ad",
       "sha256": "157r6rcl0ri2w172npfsfyrdynq23wjcjx7cpl1qizy12qc6fvm9"
@@ -5765,7 +5793,7 @@
   },
   {
     "path": "org/osmdroid/osmdroid-android/6.1.10/osmdroid-android-6.1.10",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2aa109000a7aec1d0a4d291a4cc4c318976da964",
       "sha256": "16b4rwq0ii2zladj9if40pal8hrrh935rm3ifdl9yqi595pksb9q"
@@ -5777,7 +5805,7 @@
   },
   {
     "path": "org/ow2/asm/asm-analysis/7.0/asm-analysis-7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "20186ccd5304839aea81893ebc65addc6ad4ca5e",
       "sha256": "1jy2mlzkr4y3jq2vrmlgy0pzzaljpx6f5wnzmpky3fnmx5vl9df6"
@@ -5789,7 +5817,7 @@
   },
   {
     "path": "org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "467a33724d063fedc0a041e68af8fb17c06ebd94",
       "sha256": "06sz2ixg6m7lmi7vwfpwjkv0nji3q1ss0lcwjx56qk61pyic2g3p"
@@ -5801,7 +5829,7 @@
   },
   {
     "path": "org/ow2/asm/asm-commons/6.0/asm-commons-6.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f434c622e92b7ad7048706b78c5ce014e74a7e8e",
       "sha256": "1pawmm9ydlf0h4wrn15wcwdwqxj9jm0mgsqnj0i5gfdgffag5x4h"
@@ -5813,7 +5841,7 @@
   },
   {
     "path": "org/ow2/asm/asm-commons/7.0/asm-commons-7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7b5da826fcab00989f748b7c4f72e75e668da210",
       "sha256": "1d0ysnvg9qa8xp1l1gi0wr49n7ip6ig0njh5f8j5njnvdj49gipl"
@@ -5825,7 +5853,7 @@
   },
   {
     "path": "org/ow2/asm/asm-commons/9.2/asm-commons-9.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8ee5279931bc860b7dd3a764c67ac1a7cb2bc07c",
       "sha256": "0w6005v4660bpbbl5pj3zidg0h3ji6s31pczjmr0wbraky1lx0h2"
@@ -5837,7 +5865,7 @@
   },
   {
     "path": "org/ow2/asm/asm-parent/6.0/asm-parent-6.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "6a030ede2a62bdde4a6b23ef342994703a11ea24",
       "sha256": "053xrln1w9nj0aw23wsiqkgn8569fk6zx7mw8dns9jgcp55hc7br"
@@ -5845,7 +5873,7 @@
   },
   {
     "path": "org/ow2/asm/asm-tree/7.0/asm-tree-7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9a26ff62a5b01e4fa15ce96fcdb78738817d3066",
       "sha256": "0s50ay61cp3anya0q8kh8id3ai3nkk1lj6cxhfh3bxag5z8pv7nk"
@@ -5857,7 +5885,7 @@
   },
   {
     "path": "org/ow2/asm/asm-tree/9.2/asm-tree-9.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "2e168ad097e0b56f1aa6695a80982b8f455b1ba8",
       "sha256": "0y63b8i72lnbcn3w4yhxm3cbscbjdi13rc2jyhcxy3ajlnz3w7zn"
@@ -5869,7 +5897,7 @@
   },
   {
     "path": "org/ow2/asm/asm-util/6.0/asm-util-6.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "00a631614520a8655772955f43dcc80db071230e",
       "sha256": "04hz479zzrz6jk1ldsss43s212w0ln1dl69la2bpn5ldk0gwdprw"
@@ -5881,7 +5909,7 @@
   },
   {
     "path": "org/ow2/asm/asm-util/7.0/asm-util-7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "0944ed3d072e935fe950cb08e6e5fabbec76d81b",
       "sha256": "0xbgf0sdn82gvfwbnjf59v0bkag8vv4jz48dq7s0cnjxnm5wwyz0"
@@ -5893,7 +5921,7 @@
   },
   {
     "path": "org/ow2/asm/asm/6.0/asm-6.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "8e8ac765fb0b5099bde117857df7f7cc7aa08165",
       "sha256": "0bn3281hli8z7dx2cs6s0a0bxc0sbfsbn9jl12cyc4ki35z4kg62"
@@ -5905,7 +5933,7 @@
   },
   {
     "path": "org/ow2/asm/asm/7.0/asm-7.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c6b547ce67397df979bde680a1d0cdf8ceb63f6a",
       "sha256": "0s2z9wg815a678nchz4skic28y7ikzz5qm7rly5lzknmhc85pxl3"
@@ -5917,7 +5945,7 @@
   },
   {
     "path": "org/ow2/asm/asm/9.2/asm-9.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "b24408a1c2214bc57380faf45b37bd67be7732b5",
       "sha256": "1x0dlpwdd36xbqwwxp25nsy42hl9dx320h30zphipw2b48djmcfz"
@@ -5929,7 +5957,7 @@
   },
   {
     "path": "org/ow2/ow2/1.3/ow2-1.3",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f679d6639bfb209b0836a5e7cf09bfbcc1a41f06",
       "sha256": "1yr8hfx8gffpppa4ii6cvrsq029a6x8hzy7nsavxhs60s9kmq8ai"
@@ -5937,7 +5965,7 @@
   },
   {
     "path": "org/ow2/ow2/1.5/ow2-1.5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "d8edc69335f4d9f95f511716fb689c86fb0ebaae",
       "sha256": "0fxla3fq7dakwhvgkm42230hz9q79d7bhlcw73k8y2vndq8ip2hg"
@@ -5945,7 +5973,7 @@
   },
   {
     "path": "org/slf4j/jcl-over-slf4j/2.0.0-alpha5/jcl-over-slf4j-2.0.0-alpha5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "10fd59906c5a47da77f96834c464da7fd472851a",
       "sha256": "11k9830p0ifvwdrravzxm3l3b116k9978bw54lg1av4x8w48d737"
@@ -5957,7 +5985,7 @@
   },
   {
     "path": "org/slf4j/slf4j-api/2.0.0-alpha5/slf4j-api-2.0.0-alpha5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "81b5496c77956334945b92738f2407d6c6eb8065",
       "sha256": "1swyj4dk8b1g93b9kw5jrx5m1jx5jin0nap13i3agjq5ld1hkwqn"
@@ -5969,7 +5997,7 @@
   },
   {
     "path": "org/slf4j/slf4j-jdk14/2.0.0-alpha5/slf4j-jdk14-2.0.0-alpha5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "9055ded49a361930af4696831f2e5c9ea92e52b9",
       "sha256": "1b6yw0lwlmd51sjcqw143x894xzf82z16dj9db0pa1cizlpb2c0c"
@@ -5981,7 +6009,7 @@
   },
   {
     "path": "org/slf4j/slf4j-parent/2.0.0-alpha5/slf4j-parent-2.0.0-alpha5",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "7099e8b69993614780298f3ec9be6621a45a12c8",
       "sha256": "01rj9wp9x09685ds1w14alzs7nfr3gks9yss9gh8am2xp45akbya"
@@ -5989,7 +6017,7 @@
   },
   {
     "path": "org/sonatype/oss/oss-parent/7/oss-parent-7",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "46b8a785b60a2767095b8611613b58577e96d4c9",
       "sha256": "0m4lallnlhyfj3z24ispxzwvsxzaznhw6zsmk4j74sibr5kqh7xm"
@@ -5997,30 +6025,18 @@
   },
   {
     "path": "org/sonatype/oss/oss-parent/9/oss-parent-9",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "e5cdc4d23b86d79c436f16fed20853284e868f65",
       "sha256": "0yl2hbwz2kn1hll1i00ddzn8f89bfdcjwdifz0pj2j15k1gjch7v"
     }
   },
   {
-    "path": "org/sufficientlysecure/openpgp-api/10.0/openpgp-api-10.0",
-    "host": "https://plugins.gradle.org/m2/",
-    "pom": {
-      "sha1": "7de321435d44d6f853fe507e286486e5151f4ca9",
-      "sha256": "0bii5apfx097d7alsbf77czcpl2wxr746w0d42mj63cx6ivpzlzw"
-    },
-    "aar": {
-      "sha1": "d42c3fc786ae7ab56bab085db01565df41b6de35",
-      "sha256": "0gz37p6m44mqpqm9da59rw85g5rh0p46x8cs1vw6mcm3134pz632"
-    }
-  },
-  {
     "path": "org/tensorflow/tensorflow-lite-metadata/0.1.0-rc2/tensorflow-lite-metadata-0.1.0-rc2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
-      "sha1": "d9f873d0c60a45135fbaffcca3ca575c11d5d89c",
-      "sha256": "083mp40kyy2bg6cmxd4g8953qws9dpql72hqyw6qwv27w18ssnc3"
+      "sha1": "43e457c5e30bb8f08f5e3823fdd172d238b7cfab",
+      "sha256": "15ifz1pxlwd2fkgk4f56d8frgifp7vq645irj1n1av1nfib5wkws"
     },
     "jar": {
       "sha1": "7aa9b3e16d85c2aae5eff741265315a37c9f731a",
@@ -6029,7 +6045,7 @@
   },
   {
     "path": "org/testng/testng/7.3.0/testng-7.3.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "f91c4812ce31bd8d214afe9a90ae66a46eccfeee",
       "sha256": "1fx4l6jygqiir3ahbwxzayx5r7s1nmxkigq79yb9sfzkp9p72f6i"
@@ -6041,7 +6057,7 @@
   },
   {
     "path": "org/whispersystems/curve25519-java/0.4.1/curve25519-java-0.4.1",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "052b6f4da522178397f54c76ae57f3f358a8074d",
       "sha256": "0sz4w4kwrrj0yjfvjrkp55m6qasr3jami85i4sls4i4dyjlawha3"
@@ -6053,7 +6069,7 @@
   },
   {
     "path": "org/whispersystems/signal-protocol-java/2.6.2/signal-protocol-java-2.6.2",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1c56520174b1620ee3a275da34b105f55ed1c4ee",
       "sha256": "1klraxmr4c77xvjagsq82d9cizhak7zmsiw0hsp7h92pxyzlyzas"
@@ -6065,7 +6081,7 @@
   },
   {
     "path": "org/yaml/snakeyaml/1.21/snakeyaml-1.21",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "c1f2acea3d242d534be2b0468b77f9a4969df205",
       "sha256": "15hw8ql8422ca4032i1jcjypw300vvjrxxiv26arxyz1nspmlqk0"
@@ -6077,7 +6093,7 @@
   },
   {
     "path": "xerces/xercesImpl/2.12.0/xercesImpl-2.12.0",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "673c91f8212d2f2add1a7557174af19069e87070",
       "sha256": "1wx1c0a8ny0dikd2846lx3bp60amxsh91yxlrpahy277rhrvp3hk"
@@ -6089,7 +6105,7 @@
   },
   {
     "path": "xml-apis/xml-apis/1.4.01/xml-apis-1.4.01",
-    "host": "https://plugins.gradle.org/m2/",
+    "host": "https://repo.maven.apache.org/maven2",
     "pom": {
       "sha1": "1c657bc14f11cbfcebb2ebf63eebd5cd85b08872",
       "sha256": "14hf08ji9bjg5q8xmxc58x8f80lsv2psdq2526ivz1mca3qjza09"

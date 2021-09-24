@@ -7,17 +7,13 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1632326725,
-        "narHash": "sha256-fh5dApRiQaMCMV4AbKzMaw/e8F8ZPkSkTUvPej1zZQ0=",
-        "owner": "Mazurel",
-        "repo": "android2nix",
-        "rev": "4f287efd87c8c1238f2953520f861b0beb80544e",
-        "type": "github"
+        "narHash": "sha256-zC0noiyksJjCRgYHUXQzN1ISqhDt7xwJaH0nDd4TBj8=",
+        "path": "/home/mateusz/ttais/nix/android2nix",
+        "type": "path"
       },
       "original": {
-        "owner": "Mazurel",
-        "repo": "android2nix",
-        "type": "github"
+        "path": "/home/mateusz/ttais/nix/android2nix",
+        "type": "path"
       }
     },
     "devshell-flake": {
