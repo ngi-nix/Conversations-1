@@ -9,4 +9,3 @@ platformToolsVersion = "31.0.3"
 buildToolsVersions = [ "30.0.2", "31.0.0" ]
 platformVersions = [ "29" ]
 abiVersions = [ "armeabi-v7a", "arm64-v8a" ]
-ndkVersions = [ "20.0.5594570" ]
