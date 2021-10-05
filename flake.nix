@@ -12,7 +12,12 @@
 
   inputs.android2nix.url = "github:Mazurel/android2nix";
 
-  outputs = { self, android2nix }:
+  inputs.conversations = {
+    url = "github:iNPUTmice/Conversations";
+    flake = false;
+  };
+
+  outputs = { self, android2nix, conversations }:
     android2nix.lib.mkAndroid2nixEnv (
       { stdenv, callPackage, gradle, jdk11, ... }: rec {
         pname = "Conversations";
@@ -26,7 +31,7 @@
             stdenv.mkDerivation {
               inherit pname;
               version = "dev";
-              src = ./.;
+              src = conversations;
               dontBuild = true;
               dontConfigure = true;
 

@@ -20,6 +20,22 @@
         "type": "github"
       }
     },
+    "conversations": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1633441385,
+        "narHash": "sha256-W7gYTDE/fArMNmg0qgeETpqAEG/LXLAZiFQQU02vXG0=",
+        "owner": "iNPUTmice",
+        "repo": "Conversations",
+        "rev": "20e4d108d49f736e639d68b86999ce396d844cb3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iNPUTmice",
+        "repo": "Conversations",
+        "type": "github"
+      }
+    },
     "devshell-flake": {
       "locked": {
         "lastModified": 1631528035,
@@ -68,7 +84,8 @@
     },
     "root": {
       "inputs": {
-        "android2nix": "android2nix"
+        "android2nix": "android2nix",
+        "conversations": "conversations"
       }
     }
   },
